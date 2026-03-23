@@ -1,6 +1,6 @@
 # Literature Sentiment Visualizer
 
-A dual-engine platform for mapping the emotional and phonetic DNA of classic literature. 
+Application for mapping the emotional and phonetic composition of classic literature.
 
 ## 🛠 Tech Stack
 - **Backend:** Python (NLTK/VADER, NetworkX, Requests)
