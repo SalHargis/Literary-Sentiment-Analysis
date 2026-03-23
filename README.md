@@ -23,15 +23,15 @@ Use VS Code Live Server or run:
    ```bash
    python -m http.server 5500
 
-Main View: index.html
+Main View: index.html\
 Comparison Hub: compare.html
 
 **📊 Data Schema**
-sentiment: Compound polarity (-1.0 to 1.0)
-wordLength: Average characters per word (Prose Weight)
-syllableDensity: Average syllables per word (Phonetic Rhythm)
-preview: Contextual snippet centered on emotional triggers
-weightedWords: The top 5 words driving the sentiment score
+sentiment: Compound polarity (-1.0 to 1.0)\
+wordLength: Average characters per word (Prose Weight)\
+syllableDensity: Average syllables per word (Phonetic Rhythm)\
+preview: Contextual snippet centered on emotional triggers\
+weightedWords: The top 5 words driving the sentiment score\
 
 **📜 License**
 Apache License 2.0
