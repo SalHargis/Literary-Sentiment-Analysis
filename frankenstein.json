@@ -1,0 +1,1921 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "index": 0,
+            "sentiment": 0.9956,
+            "preview": "...s whose effusions entranced my soul and lifted it to heaven. I also became a poet and for one year lived in a paradise of my own creation; I imagined that I also might obtain a niche in the temple where the names of Home...",
+            "weightedWords": [
+                "paradise",
+                "heavenly",
+                "delight",
+                "beauty",
+                "joy"
+            ],
+            "wordLength": 4.564238410596026,
+            "syllableDensity": 1.5364238410596027,
+            "id": "beat_0"
+        },
+        {
+            "index": 1,
+            "sentiment": 0.9995,
+            "preview": "...the theory of medicine, and those branches of physical science from which a naval adventurer might derive the greatest practical advantage. Twice I actually hired myself as an under-mate in a Greenland whaler, and acquit...",
+            "weightedWords": [
+                "greatest",
+                "love",
+                "great",
+                "joy",
+                "excellent"
+            ],
+            "wordLength": 4.365079365079365,
+            "syllableDensity": 1.4748677248677249,
+            "id": "beat_1"
+        },
+        {
+            "index": 2,
+            "sentiment": 0.9992,
+            "preview": "...ll-known integrity and dauntless courage, made me very desirous to engage him. A youth passed in solitude, my best years spent under your gentle and feminine fosterage, has so refined the groundwork of my character that...",
+            "weightedWords": [
+                "best",
+                "magnificent",
+                "loved",
+                "lover",
+                "celebrated"
+            ],
+            "wordLength": 4.505944517833553,
+            "syllableDensity": 1.5310435931307793,
+            "id": "beat_2"
+        },
+        {
+            "index": 3,
+            "sentiment": 0.9981,
+            "preview": "...ically industrious\u2014painstaking, a workman to execute with perseverance and labour\u2014but besides this there is a love for the marvellous, a belief in the marvellous, intertwined in all my projects, which hurries me out of t...",
+            "weightedWords": [
+                "love",
+                "success",
+                "pleasurable",
+                "passionate",
+                "affection"
+            ],
+            "wordLength": 4.493403693931398,
+            "syllableDensity": 1.5303430079155673,
+            "id": "beat_3"
+        },
+        {
+            "index": 4,
+            "sentiment": 0.9417,
+            "preview": "...had supposed. Shut in, however, by ice, it was impossible to follow his track, which we had observed with the greatest attention. About two hours after this occurrence we heard the ground sea, and before night the ice br...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "wonderfully",
+                "precious",
+                "wealth"
+            ],
+            "wordLength": 4.326666666666667,
+            "syllableDensity": 1.4466666666666668,
+            "id": "beat_4"
+        },
+        {
+            "index": 5,
+            "sentiment": 0.9978,
+            "preview": "...not judge. From this time a new spirit of life animated the decaying frame of the stranger. He manifested the greatest eagerness to be upon deck to watch for the sledge which had before appeared; but I have persuaded him...",
+            "weightedWords": [
+                "greatest",
+                "love",
+                "happy",
+                "success",
+                "admiration"
+            ],
+            "wordLength": 4.32845744680851,
+            "syllableDensity": 1.4587765957446808,
+            "id": "beat_5"
+        },
+        {
+            "index": 6,
+            "sentiment": 0.9929,
+            "preview": "...19th, 17\u2014. Yesterday the stranger said to me, \u201cYou may easily perceive, Captain Walton, that I have suffered great and unparalleled misfortunes. I had determined at one time that the memory of these evils should die wit...",
+            "weightedWords": [
+                "great",
+                "wonderful",
+                "won",
+                "happiness",
+                "divine"
+            ],
+            "wordLength": 4.481481481481482,
+            "syllableDensity": 1.5052910052910053,
+            "id": "beat_6"
+        },
+        {
+            "index": 7,
+            "sentiment": 0.9991,
+            "preview": "...munication, yet I could not endure that he should renew his grief by a recital of his misfortunes. I felt the greatest eagerness to hear the promised narrative, partly from curiosity and partly from a strong desire to am...",
+            "weightedWords": [
+                "greatest",
+                "loved",
+                "pleasure",
+                "honour",
+                "overjoyed"
+            ],
+            "wordLength": 4.54569536423841,
+            "syllableDensity": 1.508609271523179,
+            "id": "beat_7"
+        },
+        {
+            "index": 8,
+            "sentiment": 0.9993,
+            "preview": "...nd of three months he lay on a bed of sickness, incapable of any exertion. His daughter attended him with the greatest tenderness, but she saw with despair that their little fund was rapidly decreasing and that there was...",
+            "weightedWords": [
+                "greatest",
+                "love",
+                "benevolent",
+                "pleasure",
+                "happiness"
+            ],
+            "wordLength": 4.541501976284585,
+            "syllableDensity": 1.5085638998682478,
+            "id": "beat_8"
+        },
+        {
+            "index": 9,
+            "sentiment": 0.9987,
+            "preview": "...with childish seriousness, interpreted her words literally and looked upon Elizabeth as mine\u2014mine to protect, love, and cherish. All praises bestowed on her I received as made to a possession of my own. We called each ot...",
+            "weightedWords": [
+                "love",
+                "brightest",
+                "beautiful",
+                "loved",
+                "delight"
+            ],
+            "wordLength": 4.535433070866142,
+            "syllableDensity": 1.4829396325459319,
+            "id": "beat_9"
+        },
+        {
+            "index": 10,
+            "sentiment": 0.9996,
+            "preview": "...I distinctly discerned how peculiarly fortunate my lot was, and gratitude assisted the development of filial love. My temper was sometimes violent, and my passions vehement; but by some law in my temperature they were t...",
+            "weightedWords": [
+                "love",
+                "perfectly",
+                "delight",
+                "magnificent",
+                "loved"
+            ],
+            "wordLength": 4.590185676392573,
+            "syllableDensity": 1.5198938992042441,
+            "id": "beat_10"
+        },
+        {
+            "index": 11,
+            "sentiment": 0.9976,
+            "preview": "...f my volume by no means assured me that he was acquainted with its contents, and I continued to read with the greatest avidity. When I returned home my first care was to procure the whole works of this author, and afterw...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "delight",
+                "joy",
+                "pleasure"
+            ],
+            "wordLength": 4.584105960264901,
+            "syllableDensity": 1.5430463576158941,
+            "id": "beat_11"
+        },
+        {
+            "index": 12,
+            "sentiment": -0.9771,
+            "preview": "...y into the shade Cornelius Agrippa, Albertus Magnus, and Paracelsus, the lords of my imagination; but by some fatality the overthrow of these men disinclined me to pursue my accustomed studies. It seemed to me as if noth...",
+            "weightedWords": [
+                "fatality",
+                "catastrophe",
+                "evil",
+                "violent",
+                "ruin"
+            ],
+            "wordLength": 4.683023872679045,
+            "syllableDensity": 1.5875331564986737,
+            "id": "beat_12"
+        },
+        {
+            "index": 13,
+            "sentiment": -0.9718,
+            "preview": "...even in death. I need not describe the feelings of those whose dearest ties are rent by that most irreparable evil, the void that presents itself to the soul, and the despair that is exhibited on the countenance. It is s...",
+            "weightedWords": [
+                "evil",
+                "dead",
+                "worst",
+                "death",
+                "ruin"
+            ],
+            "wordLength": 4.322281167108753,
+            "syllableDensity": 1.436339522546419,
+            "id": "beat_13"
+        },
+        {
+            "index": 14,
+            "sentiment": 0.9825,
+            "preview": "...rto been remarkably secluded and domestic, and this had given me invincible repugnance to new countenances. I loved my brothers, Elizabeth, and Clerval; these were \u201cold familiar faces,\u201d but I believed myself totally unfi...",
+            "weightedWords": [
+                "loved",
+                "pleasure",
+                "kind",
+                "grandeur",
+                "friend"
+            ],
+            "wordLength": 4.685676392572944,
+            "syllableDensity": 1.5928381962864722,
+            "id": "beat_14"
+        },
+        {
+            "index": 15,
+            "sentiment": 0.9961,
+            "preview": "...sor was very unlike his colleague. He appeared about fifty years of age, but with an aspect expressive of the greatest benevolence; a few grey hairs covered his temples, but those at the back of his head were nearly blac...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "smiled",
+                "heaven",
+                "pretty"
+            ],
+            "wordLength": 4.6301188903566715,
+            "syllableDensity": 1.535006605019815,
+            "id": "beat_15"
+        },
+        {
+            "index": 16,
+            "sentiment": 0.9992,
+            "preview": "...ls your ability, I have no doubt of your success. Chemistry is that branch of natural philosophy in which the greatest improvements have been and may be made; it is on that account that I have made it my peculiar study;...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "happy",
+                "success",
+                "heartfelt"
+            ],
+            "wordLength": 4.613333333333333,
+            "syllableDensity": 1.576,
+            "id": "beat_16"
+        },
+        {
+            "index": 17,
+            "sentiment": 0.9465,
+            "preview": "...must also observe the natural decay and corruption of the human body. In my education my father had taken the greatest precautions that my mind should be impressed with no supernatural horrors. I do not ever remember to...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "delight",
+                "beauty",
+                "brilliant"
+            ],
+            "wordLength": 4.485372340425532,
+            "syllableDensity": 1.5279255319148937,
+            "id": "beat_17"
+        },
+        {
+            "index": 18,
+            "sentiment": 0.997,
+            "preview": "...t was with these feelings that I began the creation of a human being. As the minuteness of the parts formed a great hindrance to my speed, I resolved, contrary to my first intention, to make the being of a gigantic statu...",
+            "weightedWords": [
+                "great",
+                "beautiful",
+                "success",
+                "wonderful",
+                "happy"
+            ],
+            "wordLength": 4.629482071713148,
+            "syllableDensity": 1.548472775564409,
+            "id": "beat_18"
+        },
+        {
+            "index": 19,
+            "sentiment": 0.7131,
+            "preview": "...my imagination. I wished, as it were, to procrastinate all that related to my feelings of affection until the great object, which swallowed up every habit of my nature, should be completed. I then thought that my father...",
+            "weightedWords": [
+                "great",
+                "delight",
+                "beautiful",
+                "perfection",
+                "supreme"
+            ],
+            "wordLength": 4.488741721854304,
+            "syllableDensity": 1.5178807947019868,
+            "id": "beat_19"
+        },
+        {
+            "index": 20,
+            "sentiment": -0.9989,
+            "preview": "...rness of disappointment; dreams that had been my food and pleasant rest for so long a space were now become a hell to me; and the change was so rapid, the overthrow so complete! Morning, dismal and wet, at length dawned...",
+            "weightedWords": [
+                "hell",
+                "dead",
+                "dismal",
+                "disgust",
+                "death"
+            ],
+            "wordLength": 4.348806366047746,
+            "syllableDensity": 1.4283819628647214,
+            "id": "beat_20"
+        },
+        {
+            "index": 21,
+            "sentiment": 0.999,
+            "preview": "...rning, and he has permitted me to undertake a voyage of discovery to the land of knowledge.\u201d \u201cIt gives me the greatest delight to see you; but tell me how you left my father, brothers, and Elizabeth.\u201d \u201cVery well, and ver...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "delight",
+                "joy",
+                "happy"
+            ],
+            "wordLength": 4.280585106382978,
+            "syllableDensity": 1.428191489361702,
+            "id": "beat_21"
+        },
+        {
+            "index": 22,
+            "sentiment": 0.7433,
+            "preview": "...in study, as you promised yourself, has been consumed in my sick room. How shall I ever repay you? I feel the greatest remorse for the disappointment of which I have been the occasion, but you will forgive me.\u201d \u201cYou will...",
+            "weightedWords": [
+                "greatest",
+                "love",
+                "joy",
+                "pleasure",
+                "happy"
+            ],
+            "wordLength": 4.304521276595745,
+            "syllableDensity": 1.4268617021276595,
+            "id": "beat_22"
+        },
+        {
+            "index": 23,
+            "sentiment": 0.9985,
+            "preview": "...oon in your own handwriting. \u201cGet well\u2014and return to us. You will find a happy, cheerful home and friends who love you dearly. Your father\u2019s health is vigorous, and he asks but to see you, but to be assured that you are...",
+            "weightedWords": [
+                "love",
+                "greatest",
+                "great",
+                "excellence",
+                "beauty"
+            ],
+            "wordLength": 4.39021164021164,
+            "syllableDensity": 1.4576719576719577,
+            "id": "beat_23"
+        },
+        {
+            "index": 24,
+            "sentiment": 0.999,
+            "preview": "...ch of cold weather, at the beginning of this last winter. Justine has just returned to us; and I assure you I love her tenderly. She is very clever and gentle, and extremely pretty; as I mentioned before, her mien and he...",
+            "weightedWords": [
+                "love",
+                "darling",
+                "remarkable",
+                "rich",
+                "dearest"
+            ],
+            "wordLength": 4.591511936339523,
+            "syllableDensity": 1.5517241379310345,
+            "id": "beat_24"
+        },
+        {
+            "index": 25,
+            "sentiment": 0.9953,
+            "preview": "...ad ever been irksome to me, and now that I wished to fly from reflection, and hated my former studies, I felt great relief in being the fellow-pupil with my friend, and found not only instruction but consolation in the w...",
+            "weightedWords": [
+                "great",
+                "loved",
+                "heroical",
+                "joy",
+                "beauty"
+            ],
+            "wordLength": 4.460212201591512,
+            "syllableDensity": 1.5172413793103448,
+            "id": "beat_25"
+        },
+        {
+            "index": 26,
+            "sentiment": 0.9994,
+            "preview": "...es, and rendered me unsocial; but Clerval called forth the better feelings of my heart; he again taught me to love the aspect of nature, and the cheerful faces of children. Excellent friend! how sincerely you did love me...",
+            "weightedWords": [
+                "love",
+                "great",
+                "loved",
+                "ecstasy",
+                "delightful"
+            ],
+            "wordLength": 4.476063829787234,
+            "syllableDensity": 1.4986702127659575,
+            "id": "beat_26"
+        },
+        {
+            "index": 27,
+            "sentiment": -0.9859,
+            "preview": "...efore I had seen blooming and active in health, stretched on the grass livid and motionless; the print of the murder\u2019s finger was on his neck. \u201cHe was conveyed home, and the anguish that was visible in my countenance bet...",
+            "weightedWords": [
+                "murder",
+                "murderer",
+                "murdered",
+                "hatred",
+                "disaster"
+            ],
+            "wordLength": 4.480053191489362,
+            "syllableDensity": 1.4640957446808511,
+            "id": "beat_27"
+        },
+        {
+            "index": 28,
+            "sentiment": 0.7324,
+            "preview": "...around was calm; and the snowy mountains, \u201cthe palaces of nature,\u201d were not changed. By degrees the calm and heavenly scene restored me, and I continued my journey towards Geneva. The road ran by the side of the lake, w...",
+            "weightedWords": [
+                "heavenly",
+                "beautiful",
+                "delight",
+                "lovely",
+                "pleasure"
+            ],
+            "wordLength": 4.374666666666666,
+            "syllableDensity": 1.4626666666666666,
+            "id": "beat_28"
+        },
+        {
+            "index": 29,
+            "sentiment": -0.982,
+            "preview": "lost it in the gloom. Nothing in human shape could have destroyed the fair child. _He_ was the murderer! I could not doubt it. The mere presence of the idea was an irresistible proof of the fact. I thought...",
+            "weightedWords": [
+                "murderer",
+                "devil",
+                "murdered",
+                "evil",
+                "dead"
+            ],
+            "wordLength": 4.29326287978864,
+            "syllableDensity": 1.4425363276089829,
+            "id": "beat_29"
+        },
+        {
+            "index": 30,
+            "sentiment": -0.9976,
+            "preview": "...ubt. But she will be tried today, and you will then hear all.\u201d He then related that, the morning on which the murder of poor William had been discovered, Justine had been taken ill, and confined to her bed for several da...",
+            "weightedWords": [
+                "murder",
+                "murderer",
+                "disaster",
+                "death",
+                "misery"
+            ],
+            "wordLength": 4.426098535286285,
+            "syllableDensity": 1.5059920106524634,
+            "id": "beat_30"
+        },
+        {
+            "index": 31,
+            "sentiment": -0.9974,
+            "preview": "...nocence and joy, the other far more dreadfully murdered, with every aggravation of infamy that could make the murder memorable in horror. Justine also was a girl of merit and possessed qualities which promised to render...",
+            "weightedWords": [
+                "murder",
+                "murdered",
+                "death",
+                "torture",
+                "violent"
+            ],
+            "wordLength": 4.49933598937583,
+            "syllableDensity": 1.5099601593625498,
+            "id": "beat_31"
+        },
+        {
+            "index": 32,
+            "sentiment": -0.9954,
+            "preview": "...\u201d She then related that, by the permission of Elizabeth, she had passed the evening of the night on which the murder had been committed at the house of an aunt at Ch\u00eane, a village situated at about a league from Geneva....",
+            "weightedWords": [
+                "murder",
+                "murderer",
+                "murdered",
+                "dead",
+                "fatally"
+            ],
+            "wordLength": 4.375830013280212,
+            "syllableDensity": 1.4767596281540505,
+            "id": "beat_32"
+        },
+        {
+            "index": 33,
+            "sentiment": -0.9986,
+            "preview": "...nnocence only to betray? Her mild eyes seemed incapable of any severity or guile, and yet she has committed a murder.\u201d Soon after we heard that the poor victim had expressed a desire to see my cousin. My father wished he...",
+            "weightedWords": [
+                "murder",
+                "murderer",
+                "murdered",
+                "hellish",
+                "betray"
+            ],
+            "wordLength": 4.314741035856573,
+            "syllableDensity": 1.4820717131474104,
+            "id": "beat_33"
+        },
+        {
+            "index": 34,
+            "sentiment": -0.9872,
+            "preview": "...d, until I almost began to think that I was the monster that he said I was. He threatened excommunication and hell fire in my last moments if I continued obdurate. Dear lady, I had none to support me; all looked on me as...",
+            "weightedWords": [
+                "hell",
+                "murderer",
+                "evil",
+                "devil",
+                "doomed"
+            ],
+            "wordLength": 4.244031830238727,
+            "syllableDensity": 1.429708222811671,
+            "id": "beat_34"
+        },
+        {
+            "index": 35,
+            "sentiment": -0.9933,
+            "preview": "...ce to gather promise of new hopes, I was seized by remorse and the sense of guilt, which hurried me away to a hell of intense tortures such as no language can describe. This state of mind preyed upon my health, which had...",
+            "weightedWords": [
+                "hell",
+                "evil",
+                "dead",
+                "torture",
+                "weep"
+            ],
+            "wordLength": 4.496706192358366,
+            "syllableDensity": 1.469038208168643,
+            "id": "beat_35"
+        },
+        {
+            "index": 36,
+            "sentiment": -0.9848,
+            "preview": "...ed, assuredly she would have been the most depraved of human creatures. For the sake of a few jewels, to have murdered the son of her benefactor and friend, a child whom she had nursed from its birth, and appeared to lov...",
+            "weightedWords": [
+                "murdered",
+                "dead",
+                "hatred",
+                "death",
+                "evils"
+            ],
+            "wordLength": 4.305039787798409,
+            "syllableDensity": 1.4310344827586208,
+            "id": "beat_36"
+        },
+        {
+            "index": 37,
+            "sentiment": 0.8714,
+            "preview": "...ds around you, who centre all their hopes in you. Have we lost the power of rendering you happy? Ah! While we love, while we are true to each other, here in this land of peace and beauty, your native country, we may reap...",
+            "weightedWords": [
+                "love",
+                "magnificent",
+                "beautiful",
+                "beauty",
+                "happy"
+            ],
+            "wordLength": 4.54050464807437,
+            "syllableDensity": 1.4833997343957503,
+            "id": "beat_37"
+        },
+        {
+            "index": 38,
+            "sentiment": 0.9836,
+            "preview": "...wall of the glacier overhung me; a few shattered pines were scattered around; and the solemn silence of this glorious presence-chamber of imperial Nature was broken only by the brawling waves or the fall of some vast fr...",
+            "weightedWords": [
+                "glorious",
+                "greatest",
+                "magnificent",
+                "blessed",
+                "ecstasy"
+            ],
+            "wordLength": 4.54221635883905,
+            "syllableDensity": 1.4802110817941954,
+            "id": "beat_38"
+        },
+        {
+            "index": 39,
+            "sentiment": -0.9974,
+            "preview": "...thy creature, to whom thou art bound by ties only dissoluble by the annihilation of one of us. You purpose to kill me. How dare you",
+            "weightedWords": [
+                "kill",
+                "devil",
+                "murdered",
+                "hatred",
+                "hated"
+            ],
+            "wordLength": 4.399734395750332,
+            "syllableDensity": 1.450199203187251,
+            "id": "beat_39"
+        },
+        {
+            "index": 40,
+            "sentiment": -0.9951,
+            "preview": "...ey are, to speak in their own defence before they are condemned. Listen to me, Frankenstein. You accuse me of murder, and yet you would, with a satisfied conscience, destroy your own creature. Oh, praise the eternal just...",
+            "weightedWords": [
+                "murder",
+                "hell",
+                "devil",
+                "evil",
+                "hatred"
+            ],
+            "wordLength": 4.105333333333333,
+            "syllableDensity": 1.3693333333333333,
+            "id": "beat_40"
+        },
+        {
+            "index": 41,
+            "sentiment": -0.9788,
+            "preview": "...was partly urged by curiosity, and compassion confirmed my resolution. I had hitherto supposed him to be the murderer of my brother, and I eagerly sought a confirmation or denial of this opinion. For the first time, als...",
+            "weightedWords": [
+                "murderer",
+                "hated",
+                "violence",
+                "ruin",
+                "lying"
+            ],
+            "wordLength": 4.193333333333333,
+            "syllableDensity": 1.404,
+            "id": "beat_41"
+        },
+        {
+            "index": 42,
+            "sentiment": 0.9586,
+            "preview": "...might dry it and have a plentiful supply of fire. When night came on and brought sleep with it, I was in the greatest fear lest my fire should be extinguished. I covered it carefully with dry wood and leaves and placed...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "delight",
+                "joy",
+                "pleasure"
+            ],
+            "wordLength": 4.362666666666667,
+            "syllableDensity": 1.4253333333333333,
+            "id": "beat_42"
+        },
+        {
+            "index": 43,
+            "sentiment": 0.9896,
+            "preview": "...the milk and cheese that I saw placed at the windows of some of the cottages, allured my appetite. One of the best of these I entered, but I had hardly placed my foot within the door before the children shrieked, and one...",
+            "weightedWords": [
+                "best",
+                "great",
+                "happy",
+                "divine",
+                "admiration"
+            ],
+            "wordLength": 4.2912234042553195,
+            "syllableDensity": 1.4308510638297873,
+            "id": "beat_43"
+        },
+        {
+            "index": 44,
+            "sentiment": 0.9877,
+            "preview": "by my retreat. The floor was a little raised, so that it was kept perfectly dry, and by its vicinity to the chimney of the cottage it was tolerably warm. \u201cBeing thus provided,...",
+            "weightedWords": [
+                "perfectly",
+                "paradise",
+                "love",
+                "beautiful",
+                "lovely"
+            ],
+            "wordLength": 4.339547270306259,
+            "syllableDensity": 1.4101198402130493,
+            "id": "beat_44"
+        },
+        {
+            "index": 45,
+            "sentiment": 0.9691,
+            "preview": "...these two excellent creatures. One was old, with silver hairs and a countenance beaming with benevolence and love; the younger was slight and graceful in his figure, and his features were moulded with the finest symmetr...",
+            "weightedWords": [
+                "love",
+                "beauty",
+                "lovely",
+                "delightful",
+                "excellent"
+            ],
+            "wordLength": 4.667553191489362,
+            "syllableDensity": 1.5132978723404256,
+            "id": "beat_45"
+        },
+        {
+            "index": 46,
+            "sentiment": 0.9951,
+            "preview": "...overed also another means through which I was enabled to assist their labours. I found that the youth spent a great part of each day in collecting wood for the family fire, and during the night I often took his tools, th...",
+            "weightedWords": [
+                "great",
+                "delight",
+                "beauty",
+                "pleasure",
+                "dearest"
+            ],
+            "wordLength": 4.583883751651255,
+            "syllableDensity": 1.5178335535006604,
+            "id": "beat_46"
+        },
+        {
+            "index": 47,
+            "sentiment": 0.9986,
+            "preview": "...d, until, by my gentle demeanour and conciliating words, I should first win their favour and afterwards their love. \u201cThese thoughts exhilarated me and led me to apply with fresh ardour to the acquiring the art of languag...",
+            "weightedWords": [
+                "love",
+                "exhilarated",
+                "beauty",
+                "lovely",
+                "win"
+            ],
+            "wordLength": 4.545092838196286,
+            "syllableDensity": 1.4893899204244032,
+            "id": "beat_47"
+        },
+        {
+            "index": 48,
+            "sentiment": 0.9994,
+            "preview": "...nd the skies cloudless. It surprised me that what before was desert and gloomy should now bloom with the most beautiful flowers and verdure. My senses were gratified and refreshed by a thousand scents of delight and a th...",
+            "weightedWords": [
+                "beautiful",
+                "delight",
+                "joy",
+                "beauty",
+                "lovely"
+            ],
+            "wordLength": 4.572751322751323,
+            "syllableDensity": 1.4986772486772486,
+            "id": "beat_48"
+        },
+        {
+            "index": 49,
+            "sentiment": 0.9984,
+            "preview": "...tha endeavoured to explain to Safie, and by which he appeared to wish to express that she bestowed on him the greatest delight by her music. \u201cThe days now passed as peaceably as before, with the sole alteration that joy...",
+            "weightedWords": [
+                "greatest",
+                "great",
+                "beautiful",
+                "delight",
+                "magnificent"
+            ],
+            "wordLength": 4.605577689243028,
+            "syllableDensity": 1.5219123505976095,
+            "id": "beat_49"
+        },
+        {
+            "index": 50,
+            "sentiment": 0.9988,
+            "preview": "...cited in me such various feelings of indignation, delight, and wonder, but which all terminated in additional love and reverence for my protectors (for so I loved, in an innocent, half-painful self-deceit, to call them)....",
+            "weightedWords": [
+                "love",
+                "loved",
+                "blessed",
+                "delight",
+                "charming"
+            ],
+            "wordLength": 4.371845949535192,
+            "syllableDensity": 1.4634794156706508,
+            "id": "beat_50"
+        },
+        {
+            "index": 51,
+            "sentiment": 0.9901,
+            "preview": "...er of Safie, who married her. The young girl spoke in high and enthusiastic terms of her mother, who, born in freedom, spurned the bondage to which she was now reduced. She instructed her daughter in the tenets of her re...",
+            "weightedWords": [
+                "freedom",
+                "lovely",
+                "lover",
+                "beauty",
+                "reward"
+            ],
+            "wordLength": 4.504660452729694,
+            "syllableDensity": 1.503328894806924,
+            "id": "beat_51"
+        },
+        {
+            "index": 52,
+            "sentiment": -0.9242,
+            "preview": "...he should appear lukewarm, for he knew that he was still in the power of his deliverer if he should choose to betray him to the Italian state which they inhabited. He revolved a thousand plans by which he should be enabl...",
+            "weightedWords": [
+                "betray",
+                "torture",
+                "ruin",
+                "outraged",
+                "punish"
+            ],
+            "wordLength": 4.5438829787234045,
+            "syllableDensity": 1.5279255319148937,
+            "id": "beat_52"
+        },
+        {
+            "index": 53,
+            "sentiment": 0.9971,
+            "preview": "...volume of _Plutarch\u2019s Lives_, and the _Sorrows of Werter_. The possession of these treasures gave me extreme delight; I now continually studied and exercised my mind upon these histories, whilst my friends were employed...",
+            "weightedWords": [
+                "delight",
+                "ecstasy",
+                "lover",
+                "admirable",
+                "divine"
+            ],
+            "wordLength": 4.573705179282869,
+            "syllableDensity": 1.549800796812749,
+            "id": "beat_53"
+        },
+        {
+            "index": 54,
+            "sentiment": 0.9989,
+            "preview": "...utarch taught me high thoughts; he elevated me above the wretched sphere of my own reflections, to admire and love the heroes of past ages. Many things I read surpassed my understanding and experience. I had a very confu...",
+            "weightedWords": [
+                "love",
+                "perfectly",
+                "greatest",
+                "beautiful",
+                "pleasure"
+            ],
+            "wordLength": 4.712383488681757,
+            "syllableDensity": 1.5858854860186418,
+            "id": "beat_54"
+        },
+        {
+            "index": 55,
+            "sentiment": 0.999,
+            "preview": "...s I resolved to undergo; and sometimes I allowed my thoughts, unchecked by reason, to ramble in the fields of Paradise, and dared to fancy amiable and lovely creatures sympathising with my feelings and cheering my gloom;...",
+            "weightedWords": [
+                "paradise",
+                "loved",
+                "lovely",
+                "happy",
+                "pleasure"
+            ],
+            "wordLength": 4.549202127659575,
+            "syllableDensity": 1.4986702127659575,
+            "id": "beat_55"
+        },
+        {
+            "index": 56,
+            "sentiment": 0.9987,
+            "preview": "...y and understand that language only. I am now going to claim the protection of some friends, whom I sincerely love, and of whose favour I have some hopes.\u2019 \u201c\u2018Are they Germans?\u2019 \u201c\u2018No, they are French. But let us change th...",
+            "weightedWords": [
+                "love",
+                "best",
+                "precious",
+                "excellent",
+                "pleasure"
+            ],
+            "wordLength": 4.2087765957446805,
+            "syllableDensity": 1.413563829787234,
+            "id": "beat_56"
+        },
+        {
+            "index": 57,
+            "sentiment": -0.9963,
+            "preview": "...rth amidst the universal stillness. All, save I, were at rest or in enjoyment; I, like the arch-fiend, bore a hell within me, and finding myself unsympathised with, wished to tear up the trees, spread havoc and destructi...",
+            "weightedWords": [
+                "hell",
+                "anguish",
+                "havoc",
+                "war",
+                "violently"
+            ],
+            "wordLength": 4.292164674634794,
+            "syllableDensity": 1.4223107569721116,
+            "id": "beat_57"
+        },
+        {
+            "index": 58,
+            "sentiment": -0.9982,
+            "preview": "...parted and had broken the only link that held me to the world. For the first time the feelings of revenge and hatred filled my bosom, and I did not strive to control them, but allowing myself to be borne away by the stre...",
+            "weightedWords": [
+                "hatred",
+                "hated",
+                "violent",
+                "death",
+                "violently"
+            ],
+            "wordLength": 4.377659574468085,
+            "syllableDensity": 1.4667553191489362,
+            "id": "beat_58"
+        },
+        {
+            "index": 59,
+            "sentiment": 0.813,
+            "preview": "...o be happy. Soft tears again bedewed my cheeks, and I even raised my humid eyes with thankfulness towards the blessed sun, which bestowed such joy upon me. \u201cI continued to wind among the paths of the wood, until I came t...",
+            "weightedWords": [
+                "blessed",
+                "joy",
+                "pleasure",
+                "happy",
+                "justice"
+            ],
+            "wordLength": 4.310252996005326,
+            "syllableDensity": 1.4500665778961386,
+            "id": "beat_59"
+        },
+        {
+            "index": 60,
+            "sentiment": -0.9986,
+            "preview": "...with epithets which carried despair to my heart; I grasped his throat to silence him, and in a moment he lay dead at my feet. \u201cI gazed on my victim, and my heart swelled with exultation and hellish triumph; clapping my...",
+            "weightedWords": [
+                "dead",
+                "hellish",
+                "hatred",
+                "anguish",
+                "death"
+            ],
+            "wordLength": 4.185430463576159,
+            "syllableDensity": 1.4185430463576159,
+            "id": "beat_60"
+        },
+        {
+            "index": 61,
+            "sentiment": -0.9978,
+            "preview": "...be; the human senses are insurmountable barriers to our union. Yet mine shall not be the submission of abject slavery. I will revenge",
+            "weightedWords": [
+                "slavery",
+                "murder",
+                "murderer",
+                "hated",
+                "disgust"
+            ],
+            "wordLength": 4.266225165562914,
+            "syllableDensity": 1.4158940397350994,
+            "id": "beat_61"
+        },
+        {
+            "index": 62,
+            "sentiment": 0.984,
+            "preview": "my injuries; if I cannot inspire love, I will cause fear, and chiefly towards you my arch-enemy, because my creator, do I swear inextinguishabl...",
+            "weightedWords": [
+                "love",
+                "inspire",
+                "bliss",
+                "happy",
+                "happiness"
+            ],
+            "wordLength": 4.1037234042553195,
+            "syllableDensity": 1.3617021276595744,
+            "id": "beat_62"
+        },
+        {
+            "index": 63,
+            "sentiment": -0.9968,
+            "preview": "...enge?\u201d \u201cHow is this? I must not be trifled with, and I demand an answer. If I have no ties and no affections, hatred and vice must be my portion; the love of another will destroy the cause of my crimes, and I shall becom...",
+            "weightedWords": [
+                "hatred",
+                "loathing",
+                "destroy",
+                "revenge",
+                "ugly"
+            ],
+            "wordLength": 4.2612732095490715,
+            "syllableDensity": 1.4204244031830238,
+            "id": "beat_63"
+        },
+        {
+            "index": 64,
+            "sentiment": 0.9983,
+            "preview": "...promise, rose proportionably. My father saw this change with pleasure, and he turned his thoughts towards the best method of eradicating the remains of my melancholy, which every now and then would return by fits, and wi...",
+            "weightedWords": [
+                "best",
+                "love",
+                "loved",
+                "adoration",
+                "success"
+            ],
+            "wordLength": 4.447543160690571,
+            "syllableDensity": 1.5073041168658698,
+            "id": "beat_64"
+        },
+        {
+            "index": 65,
+            "sentiment": 0.9804,
+            "preview": "...d? I must perform my engagement and let the monster depart with his mate before I allowed myself to enjoy the delight of a union from which I expected peace. I remembered also the necessity imposed upon me of either jour...",
+            "weightedWords": [
+                "delight",
+                "loved",
+                "honour",
+                "pleasure",
+                "reward"
+            ],
+            "wordLength": 4.563660477453581,
+            "syllableDensity": 1.5862068965517242,
+            "id": "beat_65"
+        },
+        {
+            "index": 66,
+            "sentiment": 0.9858,
+            "preview": "...ch I traversed many leagues, I arrived at Strasburgh, where I waited two days for Clerval. He came. Alas, how great was the contrast between us! He was alive to every new scene, joyful when he saw the beauties of the set...",
+            "weightedWords": [
+                "great",
+                "beautiful",
+                "joyful",
+                "delight",
+                "happy"
+            ],
+            "wordLength": 4.48472775564409,
+            "syllableDensity": 1.5086321381142098,
+            "id": "beat_66"
+        },
+        {
+            "index": 67,
+            "sentiment": 0.9994,
+            "preview": "..., and the deep and gloomy wood, Their colours and their forms, were then to him An appetite; a feeling, and a love, That had no need of a remoter charm, By thought supplied, or any interest Unborrow\u2019d from the eye. [Word...",
+            "weightedWords": [
+                "love",
+                "great",
+                "loved",
+                "magnificent",
+                "divinely"
+            ],
+            "wordLength": 4.525759577278732,
+            "syllableDensity": 1.488771466314399,
+            "id": "beat_67"
+        },
+        {
+            "index": 68,
+            "sentiment": 0.9969,
+            "preview": "...he voice of Henry soothed me, and I could thus cheat myself into a transitory peace. But busy, uninteresting, joyous faces brought back despair to my heart. I saw an insurmountable barrier placed between me and my fellow...",
+            "weightedWords": [
+                "joyous",
+                "great",
+                "beautiful",
+                "pleasure",
+                "happiness"
+            ],
+            "wordLength": 4.561917443408788,
+            "syllableDensity": 1.5459387483355527,
+            "id": "beat_68"
+        },
+        {
+            "index": 69,
+            "sentiment": 0.9598,
+            "preview": "beauty to obtain our admiration. The colleges are ancient and picturesque; the streets are almost magnificent; and the lovely Isis, which flows beside it through meadows of exquisite verdure, is spread forth...",
+            "weightedWords": [
+                "magnificent",
+                "beautiful",
+                "delight",
+                "beauty",
+                "lovely"
+            ],
+            "wordLength": 4.689655172413793,
+            "syllableDensity": 1.557029177718833,
+            "id": "beat_69"
+        },
+        {
+            "index": 70,
+            "sentiment": 0.9852,
+            "preview": "...d him as his shadow, to protect him from the fancied rage of his destroyer. I felt as if I had committed some great crime, the consciousness of which haunted me. I was guiltless, but I had indeed drawn down a horrible cu...",
+            "weightedWords": [
+                "great",
+                "beauty",
+                "delightful",
+                "laugh",
+                "admiration"
+            ],
+            "wordLength": 4.371352785145889,
+            "syllableDensity": 1.4350132625994696,
+            "id": "beat_70"
+        },
+        {
+            "index": 71,
+            "sentiment": -0.9982,
+            "preview": "...ignorant; she might become ten thousand times more malignant than her mate and delight, for its own sake, in murder and wretchedness. He had sworn to quit the neighbourhood of man and hide himself in deserts, but she ha...",
+            "weightedWords": [
+                "murder",
+                "evil",
+                "disgust",
+                "horror",
+                "fearing"
+            ],
+            "wordLength": 4.302666666666667,
+            "syllableDensity": 1.4653333333333334,
+            "id": "beat_71"
+        },
+        {
+            "index": 72,
+            "sentiment": -0.9975,
+            "preview": "...reating you a companion in vice. Shall I, in cool blood, set loose upon the earth a d\u00e6mon whose delight is in death and wretchedness? Begone! I am firm, and your words will only exasperate my rage.\u201d The monster saw my de...",
+            "weightedWords": [
+                "death",
+                "die",
+                "dreaded",
+                "misery",
+                "anger"
+            ],
+            "wordLength": 4.266311584553928,
+            "syllableDensity": 1.4087882822902795,
+            "id": "beat_72"
+        },
+        {
+            "index": 73,
+            "sentiment": -0.9528,
+            "preview": "...lost amidst the waves. All was again silent, but his words rang in my ears. I burned with rage to pursue the murderer of my peace and precipitate him into the ocean. I walked up and down my room hastily and perturbed, w...",
+            "weightedWords": [
+                "murderer",
+                "devil",
+                "violence",
+                "death",
+                "die"
+            ],
+            "wordLength": 4.16490765171504,
+            "syllableDensity": 1.4063324538258575,
+            "id": "beat_73"
+        },
+        {
+            "index": 74,
+            "sentiment": -0.2582,
+            "preview": "...he instruments out of the room, but I reflected that I ought not to leave the relics of my work to excite the horror and suspicion of the peasants; and I accordingly put them into a basket, with a great quantity of stone...",
+            "weightedWords": [
+                "horror",
+                "crime",
+                "tortures",
+                "sickening",
+                "threat"
+            ],
+            "wordLength": 4.241011984021305,
+            "syllableDensity": 1.40745672436751,
+            "id": "beat_74"
+        },
+        {
+            "index": 75,
+            "sentiment": 0.9667,
+            "preview": "...oy to my heart, and tears gushed from my eyes. How mutable are our feelings, and how strange is that clinging love we have of life even in the excess of misery! I constructed another sail with a part of my dress and eage...",
+            "weightedWords": [
+                "love",
+                "best",
+                "joy",
+                "kind",
+                "free"
+            ],
+            "wordLength": 4.290836653386454,
+            "syllableDensity": 1.4448871181938912,
+            "id": "beat_75"
+        },
+        {
+            "index": 76,
+            "sentiment": -0.9948,
+            "preview": "...deposition did not in the least interest me, but when the mark of the fingers was mentioned I remembered the murder of my brother and felt myself extremely agitated; my limbs trembled, and a mist came over my eyes, whic...",
+            "weightedWords": [
+                "murder",
+                "dead",
+                "violence",
+                "death",
+                "drowned"
+            ],
+            "wordLength": 4.172642762284196,
+            "syllableDensity": 1.401062416998672,
+            "id": "beat_76"
+        },
+        {
+            "index": 77,
+            "sentiment": -0.996,
+            "preview": "by the extreme agitation I had exhibited when the mode of the murder had been described. I was accordingly conducted, by the magistrate and several other persons, to the in...",
+            "weightedWords": [
+                "murder",
+                "murderer",
+                "murdered",
+                "dead",
+                "murderous"
+            ],
+            "wordLength": 4.327563249001331,
+            "syllableDensity": 1.4620505992010653,
+            "id": "beat_77"
+        },
+        {
+            "index": 78,
+            "sentiment": -0.9984,
+            "preview": "...y some surprising accident, on this shore, renowned for its hospitality, seized immediately, and charged with murder. The first sight that was presented to your eyes was the body of your friend, murdered in so unaccounta...",
+            "weightedWords": [
+                "murder",
+                "murderer",
+                "evil",
+                "murdered",
+                "brutality"
+            ],
+            "wordLength": 4.36,
+            "syllableDensity": 1.4626666666666666,
+            "id": "beat_78"
+        },
+        {
+            "index": 79,
+            "sentiment": -0.9894,
+            "preview": "...mournfully at the barred windows and wretched appearance of the room. \u201cYou travelled to seek happiness, but a fatality seems to pursue you. And poor Clerval\u2014\u201d The name of my unfortunate and murdered friend was an agitati...",
+            "weightedWords": [
+                "fatality",
+                "murdered",
+                "hellish",
+                "death",
+                "violent"
+            ],
+            "wordLength": 4.367861885790172,
+            "syllableDensity": 1.4634794156706508,
+            "id": "beat_79"
+        },
+        {
+            "index": 80,
+            "sentiment": -0.9662,
+            "preview": "...without delay to Geneva, there to watch over the lives of those I so fondly loved and to lie in wait for the murderer, that if any chance led me to the place of his concealment, or if he dared again to blast me by his p...",
+            "weightedWords": [
+                "murderer",
+                "violence",
+                "death",
+                "anguish",
+                "misery"
+            ],
+            "wordLength": 4.278514588859417,
+            "syllableDensity": 1.4416445623342176,
+            "id": "beat_80"
+        },
+        {
+            "index": 81,
+            "sentiment": -0.9978,
+            "preview": "...sh my despair. Sometimes he thought that I felt deeply the degradation of being obliged to answer a charge of murder, and he endeavoured to prove to me the futility of pride. \u201cAlas! My father,\u201d said I, \u201chow little do you...",
+            "weightedWords": [
+                "murder",
+                "murdered",
+                "violence",
+                "disastrous",
+                "obliterate"
+            ],
+            "wordLength": 4.438992042440319,
+            "syllableDensity": 1.4986737400530503,
+            "id": "beat_81"
+        },
+        {
+            "index": 82,
+            "sentiment": 0.9962,
+            "preview": "...s on our way to Switzerland, I received the following letter from Elizabeth: \u201cMy dear Friend, \u201cIt gave me the greatest pleasure to receive a letter from my uncle dated at Paris; you are no longer at a formidable distance...",
+            "weightedWords": [
+                "greatest",
+                "love",
+                "pleasure",
+                "honour",
+                "happy"
+            ],
+            "wordLength": 4.316976127320955,
+            "syllableDensity": 1.4310344827586208,
+            "id": "beat_82"
+        },
+        {
+            "index": 83,
+            "sentiment": 0.9148,
+            "preview": "...uld be at peace and his power over me be at an end. If he were vanquished, I should be a free man. Alas! What freedom? Such as the peasant enjoys when his family have been massacred before his eyes, his cottage burnt, hi...",
+            "weightedWords": [
+                "freedom",
+                "love",
+                "heavenly",
+                "delight",
+                "joy"
+            ],
+            "wordLength": 4.357615894039735,
+            "syllableDensity": 1.4688741721854304,
+            "id": "beat_83"
+        },
+        {
+            "index": 84,
+            "sentiment": 0.9952,
+            "preview": "cling closer to what remains and transfer our love for those whom we have lost to those who yet live. Our circle will be small but bound close by the ties o...",
+            "weightedWords": [
+                "love",
+                "great",
+                "beautiful",
+                "joy",
+                "happy"
+            ],
+            "wordLength": 4.526525198938992,
+            "syllableDensity": 1.509283819628647,
+            "id": "beat_84"
+        },
+        {
+            "index": 85,
+            "sentiment": 0.9921,
+            "preview": "...le barrier to the invader who should wish to enslave it. I took the hand of Elizabeth. \u201cYou are sorrowful, my love. Ah! If you knew what I have suffered and what I may yet endure, you would endeavour to let me taste the...",
+            "weightedWords": [
+                "love",
+                "freedom",
+                "great",
+                "beautiful",
+                "beauty"
+            ],
+            "wordLength": 4.395472703062583,
+            "syllableDensity": 1.4247669773635152,
+            "id": "beat_85"
+        },
+        {
+            "index": 86,
+            "sentiment": -0.9969,
+            "preview": "...covered by her hair. Everywhere I turn I see the same figure\u2014her bloodless arms and relaxed form flung by the murderer on its bridal bier. Could I behold this and live? Alas! Life is obstinate and clings closest where it...",
+            "weightedWords": [
+                "murderer",
+                "hated",
+                "murderous",
+                "destruction",
+                "horror"
+            ],
+            "wordLength": 4.2087765957446805,
+            "syllableDensity": 1.4095744680851063,
+            "id": "beat_86"
+        },
+        {
+            "index": 87,
+            "sentiment": -0.9964,
+            "preview": "...cause. I was bewildered, in a cloud of wonder and horror. The death of William, the execution of Justine, the murder of Clerval, and lastly of my wife; even at that moment I knew not that my only remaining friends were s...",
+            "weightedWords": [
+                "murder",
+                "dead",
+                "doomed",
+                "death",
+                "horror"
+            ],
+            "wordLength": 4.196808510638298,
+            "syllableDensity": 1.428191489361702,
+            "id": "beat_87"
+        },
+        {
+            "index": 88,
+            "sentiment": -0.9962,
+            "preview": "...the destroyer of my family, and that I required him to exert his whole authority for the apprehension of the murderer. The magistrate listened to me with attention and kindness. \u201cBe assured, sir,\u201d said he, \u201cno pains or...",
+            "weightedWords": [
+                "murderer",
+                "death",
+                "horror",
+                "destruction",
+                "villain"
+            ],
+            "wordLength": 4.332,
+            "syllableDensity": 1.48,
+            "id": "beat_88"
+        },
+        {
+            "index": 89,
+            "sentiment": -0.999,
+            "preview": "...hich this scene had at first excited quickly gave way to rage and despair. They were dead, and I lived; their murderer also lived, and to destroy him I must drag out my weary existence. I knelt on the grass and kissed th...",
+            "weightedWords": [
+                "murderer",
+                "hell",
+                "murdered",
+                "devil",
+                "dead"
+            ],
+            "wordLength": 4.295212765957447,
+            "syllableDensity": 1.422872340425532,
+            "id": "beat_89"
+        },
+        {
+            "index": 90,
+            "sentiment": 0.6622,
+            "preview": "...My life, as it passed thus, was indeed hateful to me, and it was during sleep alone that I could taste joy. O blessed sleep! Often, when most miserable, I sank to repose, and my dreams lulled me even to rapture. The spir...",
+            "weightedWords": [
+                "blessed",
+                "joy",
+                "benevolent",
+                "happiness",
+                "dearest"
+            ],
+            "wordLength": 4.247011952191235,
+            "syllableDensity": 1.403718459495352,
+            "id": "beat_90"
+        },
+        {
+            "index": 91,
+            "sentiment": 0.811,
+            "preview": "...iserable fiend, to torture and death. Never will I give up my search until he or I perish; and then with what ecstasy shall I join my Elizabeth and my departed friends, who even now prepare for me the reward of my tediou...",
+            "weightedWords": [
+                "ecstasy",
+                "joy",
+                "reward",
+                "superior",
+                "triumphant"
+            ],
+            "wordLength": 4.466225165562914,
+            "syllableDensity": 1.480794701986755,
+            "id": "beat_91"
+        },
+        {
+            "index": 92,
+            "sentiment": -0.998,
+            "preview": "...tions that oppressed me, I wept aloud. But this was not the time for delay; I disencumbered the dogs of their dead companion, gave them a plentiful portion of food, and after an hour\u2019s rest, which was absolutely necessar...",
+            "weightedWords": [
+                "dead",
+                "hellish",
+                "anguish",
+                "death",
+                "die"
+            ],
+            "wordLength": 4.19761273209549,
+            "syllableDensity": 1.3912466843501325,
+            "id": "beat_92"
+        },
+        {
+            "index": 93,
+            "sentiment": 0.9762,
+            "preview": "...uching; nor can I hear him, when he relates a pathetic incident or endeavours to move the passions of pity or love, without tears. What a glorious creature must he have been in the days of his prosperity, when he is thus...",
+            "weightedWords": [
+                "love",
+                "glorious",
+                "great",
+                "lovely",
+                "joy"
+            ],
+            "wordLength": 4.628154050464808,
+            "syllableDensity": 1.5325365205843293,
+            "id": "beat_93"
+        },
+        {
+            "index": 94,
+            "sentiment": 0.9932,
+            "preview": "...I then lose this admirable being? I have longed for a friend; I have sought one who would sympathise with and love me. Behold, on these desert seas I have found such a one, but I fear I have gained him only to know his v...",
+            "weightedWords": [
+                "love",
+                "excellence",
+                "lovely",
+                "happy",
+                "admirable"
+            ],
+            "wordLength": 4.343541944074567,
+            "syllableDensity": 1.4727030625832225,
+            "id": "beat_94"
+        },
+        {
+            "index": 95,
+            "sentiment": 0.9891,
+            "preview": "...What do you demand of your captain? Are you, then, so easily turned from your design? Did you not call this a glorious expedition? \u201cAnd wherefore was it glorious? Not because the way was smooth and placid as a southern s...",
+            "weightedWords": [
+                "glorious",
+                "heroism",
+                "honour",
+                "happily",
+                "justice"
+            ],
+            "wordLength": 4.430278884462151,
+            "syllableDensity": 1.454183266932271,
+            "id": "beat_95"
+        },
+        {
+            "index": 96,
+            "sentiment": -0.937,
+            "preview": "...n refusing, to create a companion for the first creature. He showed unparalleled malignity and selfishness in evil; he destroyed my friends; he devoted to destruction beings who possessed exquisite sensations, happiness,...",
+            "weightedWords": [
+                "evil",
+                "hatred",
+                "die",
+                "death",
+                "injustice"
+            ],
+            "wordLength": 4.3936170212765955,
+            "syllableDensity": 1.4547872340425532,
+            "id": "beat_96"
+        },
+        {
+            "index": 97,
+            "sentiment": -0.9875,
+            "preview": "...nstigated by the wildest rage of some uncontrollable passion. \u201cThat is also my victim!\u201d he exclaimed. \u201cIn his murder my crimes are consummated; the miserable series of my being is wound to its close! Oh, Frankenstein! Ge...",
+            "weightedWords": [
+                "murder",
+                "catastrophe",
+                "dead",
+                "death",
+                "horror"
+            ],
+            "wordLength": 4.424403183023872,
+            "syllableDensity": 1.4681697612732096,
+            "id": "beat_97"
+        },
+        {
+            "index": 98,
+            "sentiment": -0.9841,
+            "preview": "...red, it did not endure the violence of the change without torture such as you cannot even imagine. \u201cAfter the murder of Clerval I returned to Switzerland, heart-broken and overcome. I pitied Frankenstein; my pity amounte...",
+            "weightedWords": [
+                "murder",
+                "evil",
+                "devil",
+                "dead",
+                "hatred"
+            ],
+            "wordLength": 4.424966799468791,
+            "syllableDensity": 1.4687915006640107,
+            "id": "beat_98"
+        },
+        {
+            "index": 99,
+            "sentiment": -0.9986,
+            "preview": "...on. Even now my blood boils at the recollection of this injustice. \u201cBut it is true that I am a wretch. I have murdered the lovely and the helpless; I have strangled the innocent as they slept and grasped to death his thr...",
+            "weightedWords": [
+                "murdered",
+                "dead",
+                "torturing",
+                "death",
+                "die"
+            ],
+            "wordLength": 4.193075898801598,
+            "syllableDensity": 1.3648468708388815,
+            "id": "beat_99"
+        },
+        {
+            "index": 100,
+            "sentiment": -0.6914,
+            "preview": "...dow as he said this, upon the ice raft which lay close to the vessel. He was soon borne away by the waves and lost in darkness and distance.",
+            "weightedWords": [
+                "lost",
+                "darkness"
+            ],
+            "wordLength": 4.0,
+            "syllableDensity": 1.2790697674418605,
+            "id": "beat_100"
+        }
+    ],
+    "edges": [
+        {
+            "source": "beat_0",
+            "target": "beat_1"
+        },
+        {
+            "source": "beat_1",
+            "target": "beat_2"
+        },
+        {
+            "source": "beat_2",
+            "target": "beat_3"
+        },
+        {
+            "source": "beat_3",
+            "target": "beat_4"
+        },
+        {
+            "source": "beat_4",
+            "target": "beat_5"
+        },
+        {
+            "source": "beat_5",
+            "target": "beat_6"
+        },
+        {
+            "source": "beat_6",
+            "target": "beat_7"
+        },
+        {
+            "source": "beat_7",
+            "target": "beat_8"
+        },
+        {
+            "source": "beat_8",
+            "target": "beat_9"
+        },
+        {
+            "source": "beat_9",
+            "target": "beat_10"
+        },
+        {
+            "source": "beat_10",
+            "target": "beat_11"
+        },
+        {
+            "source": "beat_11",
+            "target": "beat_12"
+        },
+        {
+            "source": "beat_12",
+            "target": "beat_13"
+        },
+        {
+            "source": "beat_13",
+            "target": "beat_14"
+        },
+        {
+            "source": "beat_14",
+            "target": "beat_15"
+        },
+        {
+            "source": "beat_15",
+            "target": "beat_16"
+        },
+        {
+            "source": "beat_16",
+            "target": "beat_17"
+        },
+        {
+            "source": "beat_17",
+            "target": "beat_18"
+        },
+        {
+            "source": "beat_18",
+            "target": "beat_19"
+        },
+        {
+            "source": "beat_19",
+            "target": "beat_20"
+        },
+        {
+            "source": "beat_20",
+            "target": "beat_21"
+        },
+        {
+            "source": "beat_21",
+            "target": "beat_22"
+        },
+        {
+            "source": "beat_22",
+            "target": "beat_23"
+        },
+        {
+            "source": "beat_23",
+            "target": "beat_24"
+        },
+        {
+            "source": "beat_24",
+            "target": "beat_25"
+        },
+        {
+            "source": "beat_25",
+            "target": "beat_26"
+        },
+        {
+            "source": "beat_26",
+            "target": "beat_27"
+        },
+        {
+            "source": "beat_27",
+            "target": "beat_28"
+        },
+        {
+            "source": "beat_28",
+            "target": "beat_29"
+        },
+        {
+            "source": "beat_29",
+            "target": "beat_30"
+        },
+        {
+            "source": "beat_30",
+            "target": "beat_31"
+        },
+        {
+            "source": "beat_31",
+            "target": "beat_32"
+        },
+        {
+            "source": "beat_32",
+            "target": "beat_33"
+        },
+        {
+            "source": "beat_33",
+            "target": "beat_34"
+        },
+        {
+            "source": "beat_34",
+            "target": "beat_35"
+        },
+        {
+            "source": "beat_35",
+            "target": "beat_36"
+        },
+        {
+            "source": "beat_36",
+            "target": "beat_37"
+        },
+        {
+            "source": "beat_37",
+            "target": "beat_38"
+        },
+        {
+            "source": "beat_38",
+            "target": "beat_39"
+        },
+        {
+            "source": "beat_39",
+            "target": "beat_40"
+        },
+        {
+            "source": "beat_40",
+            "target": "beat_41"
+        },
+        {
+            "source": "beat_41",
+            "target": "beat_42"
+        },
+        {
+            "source": "beat_42",
+            "target": "beat_43"
+        },
+        {
+            "source": "beat_43",
+            "target": "beat_44"
+        },
+        {
+            "source": "beat_44",
+            "target": "beat_45"
+        },
+        {
+            "source": "beat_45",
+            "target": "beat_46"
+        },
+        {
+            "source": "beat_46",
+            "target": "beat_47"
+        },
+        {
+            "source": "beat_47",
+            "target": "beat_48"
+        },
+        {
+            "source": "beat_48",
+            "target": "beat_49"
+        },
+        {
+            "source": "beat_49",
+            "target": "beat_50"
+        },
+        {
+            "source": "beat_50",
+            "target": "beat_51"
+        },
+        {
+            "source": "beat_51",
+            "target": "beat_52"
+        },
+        {
+            "source": "beat_52",
+            "target": "beat_53"
+        },
+        {
+            "source": "beat_53",
+            "target": "beat_54"
+        },
+        {
+            "source": "beat_54",
+            "target": "beat_55"
+        },
+        {
+            "source": "beat_55",
+            "target": "beat_56"
+        },
+        {
+            "source": "beat_56",
+            "target": "beat_57"
+        },
+        {
+            "source": "beat_57",
+            "target": "beat_58"
+        },
+        {
+            "source": "beat_58",
+            "target": "beat_59"
+        },
+        {
+            "source": "beat_59",
+            "target": "beat_60"
+        },
+        {
+            "source": "beat_60",
+            "target": "beat_61"
+        },
+        {
+            "source": "beat_61",
+            "target": "beat_62"
+        },
+        {
+            "source": "beat_62",
+            "target": "beat_63"
+        },
+        {
+            "source": "beat_63",
+            "target": "beat_64"
+        },
+        {
+            "source": "beat_64",
+            "target": "beat_65"
+        },
+        {
+            "source": "beat_65",
+            "target": "beat_66"
+        },
+        {
+            "source": "beat_66",
+            "target": "beat_67"
+        },
+        {
+            "source": "beat_67",
+            "target": "beat_68"
+        },
+        {
+            "source": "beat_68",
+            "target": "beat_69"
+        },
+        {
+            "source": "beat_69",
+            "target": "beat_70"
+        },
+        {
+            "source": "beat_70",
+            "target": "beat_71"
+        },
+        {
+            "source": "beat_71",
+            "target": "beat_72"
+        },
+        {
+            "source": "beat_72",
+            "target": "beat_73"
+        },
+        {
+            "source": "beat_73",
+            "target": "beat_74"
+        },
+        {
+            "source": "beat_74",
+            "target": "beat_75"
+        },
+        {
+            "source": "beat_75",
+            "target": "beat_76"
+        },
+        {
+            "source": "beat_76",
+            "target": "beat_77"
+        },
+        {
+            "source": "beat_77",
+            "target": "beat_78"
+        },
+        {
+            "source": "beat_78",
+            "target": "beat_79"
+        },
+        {
+            "source": "beat_79",
+            "target": "beat_80"
+        },
+        {
+            "source": "beat_80",
+            "target": "beat_81"
+        },
+        {
+            "source": "beat_81",
+            "target": "beat_82"
+        },
+        {
+            "source": "beat_82",
+            "target": "beat_83"
+        },
+        {
+            "source": "beat_83",
+            "target": "beat_84"
+        },
+        {
+            "source": "beat_84",
+            "target": "beat_85"
+        },
+        {
+            "source": "beat_85",
+            "target": "beat_86"
+        },
+        {
+            "source": "beat_86",
+            "target": "beat_87"
+        },
+        {
+            "source": "beat_87",
+            "target": "beat_88"
+        },
+        {
+            "source": "beat_88",
+            "target": "beat_89"
+        },
+        {
+            "source": "beat_89",
+            "target": "beat_90"
+        },
+        {
+            "source": "beat_90",
+            "target": "beat_91"
+        },
+        {
+            "source": "beat_91",
+            "target": "beat_92"
+        },
+        {
+            "source": "beat_92",
+            "target": "beat_93"
+        },
+        {
+            "source": "beat_93",
+            "target": "beat_94"
+        },
+        {
+            "source": "beat_94",
+            "target": "beat_95"
+        },
+        {
+            "source": "beat_95",
+            "target": "beat_96"
+        },
+        {
+            "source": "beat_96",
+            "target": "beat_97"
+        },
+        {
+            "source": "beat_97",
+            "target": "beat_98"
+        },
+        {
+            "source": "beat_98",
+            "target": "beat_99"
+        },
+        {
+            "source": "beat_99",
+            "target": "beat_100"
+        }
+    ]
+}

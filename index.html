@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Literature Sentiment Visualizer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <style>
+        body { 
+            margin: 0; 
+            background: #111; 
+            overflow: hidden; 
+            font-family: 'Crimson Text', serif; 
+        }
+        canvas { display: block; }
+
+        #view-toggle {
+            position: absolute;
+            bottom: 200px; 
+            left: 30px; 
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(8px);
+            color: rgba(255, 255, 255, 0.6);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            padding: 8px 16px;
+            border-radius: 3px;
+            cursor: pointer;
+            letter-spacing: 1.5px;
+            font-size: 10px;
+            transition: all 0.3s ease;
+            z-index: 1000;
+            /* width removed to fit content */
+            text-align: left;
+        }
+
+        #view-toggle:hover {
+            background: rgba(255, 255, 255, 0.1);
+            color: white;
+            border-color: rgba(255, 255, 255, 0.4);
+        }
+        
+        #preview-box {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.96);
+            color: #111;
+            padding: 15px 20px;
+            border-radius: 12px;
+            width: 280px;
+            display: none; 
+            pointer-events: none; 
+            text-align: center;
+            font-size: 14px;
+            line-height: 1.5;
+            box-shadow: 0 5px 25px rgba(0,0,0,0.4);
+            z-index: 100; 
+            transform: translate(-50%, -100%) translateY(-20px); 
+            transition: opacity 0.2s ease-out;
+        }
+
+        #preview-box.below { transform: translate(-50%, 0%) translateY(30px); }
+        #preview-box.below::after {
+            bottom: auto;
+            top: -10px;
+            border-width: 0 10px 10px;
+            border-color: transparent transparent white;
+        }
+
+        #preview-box::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 10px solid;
+            border-color: white transparent transparent;
+        }
+
+        #preview-box b {
+            font-weight: 700;
+            background: rgba(138, 43, 226, 0.08); 
+            padding: 0 3px;
+            border-radius: 2px;
+        }
+    </style>
+</head>
+<body>
+    <button id="view-toggle" onclick="window.open('compare.html', '_blank')">COMPARE STORIES</button>
+    <div id="preview-box"></div>
+    <script src="sketch.js"></script>
+</body>
+</html>

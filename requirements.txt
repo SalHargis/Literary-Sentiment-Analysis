@@ -1,0 +1,16 @@
+### "./.venv/bin/python" -m pip freeze > requirements.txt
+
+# NLP and Sentiment Analysis
+nltk
+vaderSentiment
+spacy
+
+# Data Structure and Networks
+networkx
+pandas
+
+# Visualization (for quick previews in Python)
+matplotlib
+
+# Utilities
+scipy

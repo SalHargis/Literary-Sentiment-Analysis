@@ -1,0 +1,1237 @@
+{
+    "directed": true,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "index": 0,
+            "sentiment": 0.9953,
+            "preview": "...y any more, but we\u2019ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I\u2019m inclined to reserve all judgements, a habit that has opened up...",
+            "weightedWords": [
+                "great",
+                "gorgeous",
+                "successful",
+                "enjoyed",
+                "care"
+            ],
+            "wordLength": 4.383526383526384,
+            "syllableDensity": 1.5083655083655083,
+            "id": "beat_0"
+        },
+        {
+            "index": 1,
+            "sentiment": 0.9946,
+            "preview": "...I was lonely no longer. I was a guide, a pathfinder, an original settler. He had casually conferred on me the freedom of the neighbourhood. And so with the sunshine and the great bursts of leaves growing on the trees, ju...",
+            "weightedWords": [
+                "freedom",
+                "great",
+                "perfect",
+                "wisdom",
+                "friendly"
+            ],
+            "wordLength": 4.217165149544863,
+            "syllableDensity": 1.435630689206762,
+            "id": "beat_1"
+        },
+        {
+            "index": 2,
+            "sentiment": 0.9818,
+            "preview": "...y-one that everything afterward savours of anticlimax. His family were enormously wealthy\u2014even in college his freedom with money was a matter for reproach\u2014but now he\u2019d left Chicago and come East in a fashion that rather...",
+            "weightedWords": [
+                "freedom",
+                "excellence",
+                "great",
+                "rich",
+                "cheerful"
+            ],
+            "wordLength": 4.304516129032258,
+            "syllableDensity": 1.4193548387096775,
+            "id": "beat_2"
+        },
+        {
+            "index": 3,
+            "sentiment": 0.9639,
+            "preview": ".... I told her how I had stopped off in Chicago for a day on my way East, and how a dozen people had sent their love through me. \u201cDo they miss me?\u201d she cried ecstatically. \u201cThe whole town is desolate. All the cars have the...",
+            "weightedWords": [
+                "love",
+                "gorgeous",
+                "charming",
+                "lovely",
+                "ecstatically"
+            ],
+            "wordLength": 4.011583011583012,
+            "syllableDensity": 1.3564993564993566,
+            "id": "beat_3"
+        },
+        {
+            "index": 4,
+            "sentiment": -0.9801,
+            "preview": "...lar by this remark, but it was taken up in an unexpected way. \u201cCivilization\u2019s going to pieces,\u201d broke out Tom violently. \u201cI\u2019ve gotten to be a terrible pessimist about things. Have you read The Rise of the Coloured Empire...",
+            "weightedWords": [
+                "violently",
+                "hate",
+                "pathetic",
+                "contemptuously",
+                "hurt"
+            ],
+            "wordLength": 4.303108808290156,
+            "syllableDensity": 1.4520725388601037,
+            "id": "beat_4"
+        },
+        {
+            "index": 5,
+            "sentiment": 0.9354,
+            "preview": "...if his absence quickened something within her, Daisy leaned forward again, her voice glowing and singing. \u201cI love to see you at my table, Nick. You remind me of a\u2014of a rose, an absolute rose. Doesn\u2019t he?\u201d She turned to...",
+            "weightedWords": [
+                "love",
+                "perfectly",
+                "enthusiastically",
+                "affection",
+                "pleasant"
+            ],
+            "wordLength": 4.327741935483871,
+            "syllableDensity": 1.4541935483870967,
+            "id": "beat_5"
+        },
+        {
+            "index": 6,
+            "sentiment": 0.9914,
+            "preview": "...ned my head away and wept. \u2018All right,\u2019 I said, \u2018I\u2019m glad it\u2019s a girl. And I hope she\u2019ll be a fool\u2014that\u2019s the best thing a girl can be in this world, a beautiful little fool.\u2019 \u201cYou see I think everything\u2019s terrible anyho...",
+            "weightedWords": [
+                "best",
+                "beautiful",
+                "lovely",
+                "won",
+                "sophisticated"
+            ],
+            "wordLength": 3.9696969696969697,
+            "syllableDensity": 1.3686868686868687,
+            "id": "beat_6"
+        },
+        {
+            "index": 7,
+            "sentiment": 0.9835,
+            "preview": "...\u201cIs she from New York?\u201d I asked quickly. \u201cFrom Louisville. Our white girlhood was passed together there. Our beautiful white\u2014\u201d \u201cDid you give Nick a little heart to heart talk on the veranda?\u201d demanded Tom suddenly. \u201cDid...",
+            "weightedWords": [
+                "beautiful",
+                "rich",
+                "fantastic",
+                "cheerful",
+                "kindly"
+            ],
+            "wordLength": 4.072727272727272,
+            "syllableDensity": 1.3675324675324676,
+            "id": "beat_7"
+        },
+        {
+            "index": 8,
+            "sentiment": -0.9752,
+            "preview": "...y girl.\u201d I think he\u2019d tanked up a good deal at luncheon, and his determination to have my company bordered on violence. The supercilious assumption was that on Sunday afternoon I had nothing better to do. I followed him...",
+            "weightedWords": [
+                "violence",
+                "dismal",
+                "forced",
+                "block",
+                "wreck"
+            ],
+            "wordLength": 4.213730569948186,
+            "syllableDensity": 1.3873056994818653,
+            "id": "beat_8"
+        },
+        {
+            "index": 9,
+            "sentiment": 0.994,
+            "preview": "...enue, warm and soft, almost pastoral, on the summer Sunday afternoon. I wouldn\u2019t have been surprised to see a great flock of white sheep turn the corner. \u201cHold on,\u201d I said, \u201cI have to leave you here.\u201d \u201cNo you don\u2019t,\u201d int...",
+            "weightedWords": [
+                "great",
+                "beautiful",
+                "won",
+                "enthusiastically",
+                "kind"
+            ],
+            "wordLength": 4.047013977128335,
+            "syllableDensity": 1.3570520965692503,
+            "id": "beat_9"
+        },
+        {
+            "index": 10,
+            "sentiment": 0.9818,
+            "preview": "...the influence of the dress her personality had also undergone a change. The intense vitality that had been so remarkable in the garage was converted into impressive hauteur. Her laughter, her gestures, her assertions bec...",
+            "weightedWords": [
+                "remarkable",
+                "cheerful",
+                "impressive",
+                "friend",
+                "handsome"
+            ],
+            "wordLength": 4.318122555410691,
+            "syllableDensity": 1.4524119947848761,
+            "id": "beat_10"
+        },
+        {
+            "index": 11,
+            "sentiment": 0.8567,
+            "preview": "...em all the time.\u201d She looked at me and laughed pointlessly. Then she flounced over to the dog, kissed it with ecstasy, and swept into the kitchen, implying that a dozen chefs awaited her orders there. \u201cI\u2019ve done some nic...",
+            "weightedWords": [
+                "ecstasy",
+                "brilliant",
+                "wonderful",
+                "won",
+                "triumphantly"
+            ],
+            "wordLength": 3.939820742637644,
+            "syllableDensity": 1.321382842509603,
+            "id": "beat_11"
+        },
+        {
+            "index": 12,
+            "sentiment": -0.6616,
+            "preview": "...out of it all in two days in the private rooms. We had an awful time getting back, I can tell you. God, how I hated that town!\u201d The late afternoon sky bloomed in the window for a moment like the blue honey of the Mediter...",
+            "weightedWords": [
+                "hated",
+                "awful",
+                "forced",
+                "cried",
+                "lied"
+            ],
+            "wordLength": 3.895348837209302,
+            "syllableDensity": 1.3320413436692506,
+            "id": "beat_12"
+        },
+        {
+            "index": 13,
+            "sentiment": -0.8315,
+            "preview": "...portfolio in his hands. \u201cBeauty and the Beast \u2026 Loneliness \u2026 Old Grocery Horse \u2026 Brook\u2019n Bridge \u2026\u201d Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning Tribune, and wai...",
+            "weightedWords": [
+                "lying",
+                "pain",
+                "despairing",
+                "broken",
+                "bloody"
+            ],
+            "wordLength": 4.344603381014304,
+            "syllableDensity": 1.4005201560468141,
+            "id": "beat_13"
+        },
+        {
+            "index": 14,
+            "sentiment": 0.992,
+            "preview": "...re wanderers, confident girls who weave here and there among the stouter and more stable, become for a sharp, joyous moment the centre of a group, and then, excited with triumph, glide on through the sea-change of faces...",
+            "weightedWords": [
+                "joyous",
+                "honour",
+                "cheerful",
+                "earnest",
+                "laughter"
+            ],
+            "wordLength": 4.483617300131062,
+            "syllableDensity": 1.473132372214941,
+            "id": "beat_14"
+        },
+        {
+            "index": 15,
+            "sentiment": 0.992,
+            "preview": "...in twin yellow dresses, who stopped at the foot of the steps. \u201cHello!\u201d they cried together. \u201cSorry you didn\u2019t win.\u201d That was for the golf tournament. She had lost in the finals the week before. \u201cYou don\u2019t know who we are...",
+            "weightedWords": [
+                "win",
+                "positively",
+                "care",
+                "confident",
+                "inspired"
+            ],
+            "wordLength": 4.147247119078105,
+            "syllableDensity": 1.4148527528809218,
+            "id": "beat_15"
+        },
+        {
+            "index": 16,
+            "sentiment": 0.9962,
+            "preview": ".... \u201cWant to go with me, old sport? Just near the shore along the Sound.\u201d \u201cWhat time?\u201d \u201cAny time that suits you best.\u201d It was on the tip of my tongue to ask his name when Jordan looked around and smiled. \u201cHaving a gay time...",
+            "weightedWords": [
+                "best",
+                "great",
+                "celebrated",
+                "happy",
+                "superior"
+            ],
+            "wordLength": 4.2169448010269575,
+            "syllableDensity": 1.417201540436457,
+            "id": "beat_16"
+        },
+        {
+            "index": 17,
+            "sentiment": 0.9954,
+            "preview": "...would like to believe in yourself, and assured you that it had precisely the impression of you that, at your best, you hoped to convey. Precisely at that point it vanished\u2014and I was looking at an elegant young roughneck...",
+            "weightedWords": [
+                "best",
+                "smiled",
+                "strong",
+                "care",
+                "attractively"
+            ],
+            "wordLength": 4.2998712998713,
+            "syllableDensity": 1.4427284427284428,
+            "id": "beat_17"
+        },
+        {
+            "index": 18,
+            "sentiment": 0.9921,
+            "preview": "...ng impatiently to her from the porch, but she lingered for a moment to shake hands. \u201cI\u2019ve just heard the most amazing thing,\u201d she whispered. \u201cHow long were we in there?\u201d \u201cWhy, about an hour.\u201d \u201cIt was \u2026 simply amazing,\u201d s...",
+            "weightedWords": [
+                "amazing",
+                "laugh",
+                "smiled",
+                "gracefully",
+                "pleasant"
+            ],
+            "wordLength": 4.289439374185137,
+            "syllableDensity": 1.4432855280312908,
+            "id": "beat_18"
+        },
+        {
+            "index": 19,
+            "sentiment": -0.9861,
+            "preview": "...explained indignantly, \u201cI wasn\u2019t even trying.\u201d An awed hush fell upon the bystanders. \u201cDo you want to commit suicide?\u201d \u201cYou\u2019re lucky it was just a wheel! A bad driver and not even trying!\u201d \u201cYou don\u2019t understand,\u201d explai...",
+            "weightedWords": [
+                "suicide",
+                "violent",
+                "violently",
+                "bad",
+                "harm"
+            ],
+            "wordLength": 4.222651222651223,
+            "syllableDensity": 1.4105534105534105,
+            "id": "beat_19"
+        },
+        {
+            "index": 20,
+            "sentiment": 0.9866,
+            "preview": "...because she was a golf champion, and everyone knew her name. Then it was something more. I wasn\u2019t actually in love, but I felt a sort of tender curiosity. The bored haughty face that she turned to the world concealed som...",
+            "weightedWords": [
+                "love",
+                "champion",
+                "smiled",
+                "laughter",
+                "excitement"
+            ],
+            "wordLength": 4.315653298835705,
+            "syllableDensity": 1.463130659767141,
+            "id": "beat_20"
+        },
+        {
+            "index": 21,
+            "sentiment": 0.147,
+            "preview": "...o get myself definitely out of that tangle back home. I\u2019d been writing letters once a week and signing them: \u201cLove, Nick,\u201d and all I could think of was how, when that certain girl played tennis, a faint moustache of pers...",
+            "weightedWords": [
+                "love",
+                "excellence",
+                "loved",
+                "free",
+                "honest"
+            ],
+            "wordLength": 4.364229765013055,
+            "syllableDensity": 1.4216710182767625,
+            "id": "beat_21"
+        },
+        {
+            "index": 22,
+            "sentiment": 0.6421,
+            "preview": "...r June, and their last names were either the melodious names of flowers and months or the sterner ones of the great American capitalists whose cousins, if pressed, they would confess themselves to be. In addition to all...",
+            "weightedWords": [
+                "great",
+                "gorgeous",
+                "rich",
+                "divine",
+                "admiration"
+            ],
+            "wordLength": 4.321705426356589,
+            "syllableDensity": 1.4651162790697674,
+            "id": "beat_22"
+        },
+        {
+            "index": 23,
+            "sentiment": 0.9931,
+            "preview": "...h?\u201d \u201cNo, this afternoon. I happened to find out that you\u2019re taking Miss Baker to tea.\u201d \u201cDo you mean you\u2019re in love with Miss Baker?\u201d \u201cNo, old sport, I\u2019m not. But Miss Baker has kindly consented to speak to you about this...",
+            "weightedWords": [
+                "love",
+                "great",
+                "fantastic",
+                "brave",
+                "appreciated"
+            ],
+            "wordLength": 4.305128205128205,
+            "syllableDensity": 1.4679487179487178,
+            "id": "beat_23"
+        },
+        {
+            "index": 24,
+            "sentiment": 0.9899,
+            "preview": "...rd?\u201d \u201cI was able to do the commissioner a favour once, and he sends me a Christmas card every year.\u201d Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the c...",
+            "weightedWords": [
+                "great",
+                "beauty",
+                "splendid",
+                "cheerful",
+                "friend"
+            ],
+            "wordLength": 4.247718383311604,
+            "syllableDensity": 1.4041720990873534,
+            "id": "beat_24"
+        },
+        {
+            "index": 25,
+            "sentiment": 0.9894,
+            "preview": "...Why has it all got to come through Miss Baker?\u201d \u201cOh, it\u2019s nothing underhand,\u201d he assured me. \u201cMiss Baker\u2019s a great sportswoman, you know, and she\u2019d never do anything that wasn\u2019t all right.\u201d Suddenly he looked at his wat...",
+            "weightedWords": [
+                "great",
+                "won",
+                "perfect",
+                "pleasure",
+                "kind"
+            ],
+            "wordLength": 4.001264222503161,
+            "syllableDensity": 1.3792667509481669,
+            "id": "beat_25"
+        },
+        {
+            "index": 26,
+            "sentiment": 0.9911,
+            "preview": "...s a bridesmaid. I came into her room half an hour before the bridal dinner, and found her lying on her bed as lovely as the June night in her flowered dress\u2014and as drunk as a monkey. She had a bottle of Sauterne in one h...",
+            "weightedWords": [
+                "lovely",
+                "happier",
+                "admired",
+                "hand",
+                "enjoy"
+            ],
+            "wordLength": 3.98840206185567,
+            "syllableDensity": 1.3324742268041236,
+            "id": "beat_26"
+        },
+        {
+            "index": 27,
+            "sentiment": 0.994,
+            "preview": "...en, already gathered like crickets on the grass, rose through the hot twilight: \u201cI\u2019m the Sheik of Araby. Your love belongs to me. At night when you\u2019re asleep Into your tent I\u2019ll creep\u2014\u201d \u201cIt was a strange coincidence,\u201d I...",
+            "weightedWords": [
+                "love",
+                "great",
+                "delight",
+                "perfect",
+                "laugh"
+            ],
+            "wordLength": 3.902439024390244,
+            "syllableDensity": 1.2978177150192554,
+            "id": "beat_27"
+        },
+        {
+            "index": 28,
+            "sentiment": -0.6305,
+            "preview": "...orate way he worked up to it. Of course, I immediately suggested a luncheon in New York\u2014and I thought he\u2019d go mad: \u201c \u2018I don\u2019t want to do anything out of the way!\u2019 he kept saying. \u2018I want to see her right next door.\u2019 \u201cWhe...",
+            "weightedWords": [
+                "mad",
+                "abandon",
+                "tired",
+                "block",
+                "scornful"
+            ],
+            "wordLength": 3.8333333333333335,
+            "syllableDensity": 1.2951653944020356,
+            "id": "beat_28"
+        },
+        {
+            "index": 29,
+            "sentiment": 0.9622,
+            "preview": "...but I was too absorbed to be responsive, so he went unwillingly home. The evening had made me lightheaded and happy; I think I walked into a deep sleep as I entered my front door. So I don\u2019t know whether or not Gatsby we...",
+            "weightedWords": [
+                "happy",
+                "dearest",
+                "ecstatic",
+                "confidently",
+                "interest"
+            ],
+            "wordLength": 4.0662420382165605,
+            "syllableDensity": 1.3808917197452228,
+            "id": "beat_29"
+        },
+        {
+            "index": 30,
+            "sentiment": -0.9669,
+            "preview": "...her head as there was a light dignified knocking at the front door. I went out and opened it. Gatsby, pale as death, with his hands plunged like weights in his coat pockets, was standing in a puddle of water glaring trag...",
+            "weightedWords": [
+                "death",
+                "tragically",
+                "distraught",
+                "horribly",
+                "miserable"
+            ],
+            "wordLength": 4.037131882202305,
+            "syllableDensity": 1.3674775928297056,
+            "id": "beat_30"
+        },
+        {
+            "index": 31,
+            "sentiment": 0.992,
+            "preview": "...ttons on her dress gleamed in the sunlight. \u201cThat huge place there?\u201d she cried pointing. \u201cDo you like it?\u201d \u201cI love it, but I don\u2019t see how you live there all alone.\u201d \u201cI keep it always full of interesting people, night an...",
+            "weightedWords": [
+                "love",
+                "beauty",
+                "joy",
+                "splendid",
+                "celebrated"
+            ],
+            "wordLength": 4.07544757033248,
+            "syllableDensity": 1.3491048593350383,
+            "id": "beat_31"
+        },
+        {
+            "index": 32,
+            "sentiment": 0.9928,
+            "preview": "...it had occurred to him that the colossal significance of that light had now vanished forever. Compared to the great distance that had separated him from Daisy it had seemed very near to her, almost touching her. It had s...",
+            "weightedWords": [
+                "great",
+                "loved",
+                "delight",
+                "beautiful",
+                "joy"
+            ],
+            "wordLength": 4.332046332046332,
+            "syllableDensity": 1.3848133848133848,
+            "id": "beat_32"
+        },
+        {
+            "index": 33,
+            "sentiment": 0.987,
+            "preview": "...\u201d \u201cThat? That\u2019s Mr. Dan Cody, old sport.\u201d The name sounded faintly familiar. \u201cHe\u2019s dead now. He used to be my best friend years ago.\u201d There was a small picture of Gatsby, also in yachting costume, on the bureau\u2014Gatsby wi...",
+            "weightedWords": [
+                "best",
+                "love",
+                "adore",
+                "rich",
+                "happiness"
+            ],
+            "wordLength": 4.041078305519897,
+            "syllableDensity": 1.3350449293966624,
+            "id": "beat_33"
+        },
+        {
+            "index": 34,
+            "sentiment": 0.9865,
+            "preview": "..., means just that\u2014and he must be about His Father\u2019s business, the service of a vast, vulgar, and meretricious beauty. So he invented just the sort of Jay Gatsby that a seventeen-year-old boy would be likely to invent, an...",
+            "weightedWords": [
+                "beauty",
+                "fantastic",
+                "superior",
+                "glory",
+                "hand"
+            ],
+            "wordLength": 4.320102432778489,
+            "syllableDensity": 1.4481434058898848,
+            "id": "beat_34"
+        },
+        {
+            "index": 35,
+            "sentiment": 0.993,
+            "preview": "...irl Bay. To young Gatz, resting on his oars and looking up at the railed deck, that yacht represented all the beauty and glamour in the world. I suppose he smiled at Cody\u2014he had probably discovered that people liked him...",
+            "weightedWords": [
+                "beauty",
+                "superior",
+                "smiled",
+                "glamour",
+                "trust"
+            ],
+            "wordLength": 4.3264248704663215,
+            "syllableDensity": 1.4546632124352332,
+            "id": "beat_35"
+        },
+        {
+            "index": 36,
+            "sentiment": 0.9952,
+            "preview": "...cluded me. Mr. Sloane got to his feet. \u201cCome along,\u201d he said\u2014but to her only. \u201cI mean it,\u201d she insisted. \u201cI\u2019d love to have you. Lots of room.\u201d Gatsby looked at me questioningly. He wanted to go and he didn\u2019t see that Mr....",
+            "weightedWords": [
+                "love",
+                "great",
+                "won",
+                "enthusiastically",
+                "delighted"
+            ],
+            "wordLength": 4.048101265822785,
+            "syllableDensity": 1.3645569620253164,
+            "id": "beat_36"
+        },
+        {
+            "index": 37,
+            "sentiment": 0.774,
+            "preview": "...id; \u201cin fact, I was just thinking I don\u2019t know a soul here.\u201d \u201cPerhaps you know that lady.\u201d Gatsby indicated a gorgeous, scarcely human orchid of a woman who sat in state under a white-plum tree. Tom and Daisy stared, wit...",
+            "weightedWords": [
+                "gorgeous",
+                "lovely",
+                "enjoyed",
+                "gratitude",
+                "pretty"
+            ],
+            "wordLength": 4.196178343949045,
+            "syllableDensity": 1.435668789808917,
+            "id": "beat_37"
+        },
+        {
+            "index": 38,
+            "sentiment": 0.9793,
+            "preview": "..., the dance is unimportant.\u201d He wanted nothing less of Daisy than that she should go to Tom and say: \u201cI never loved you.\u201d After she had obliterated four years with that sentence they could decide upon the more practical...",
+            "weightedWords": [
+                "loved",
+                "rich",
+                "free",
+                "sweetly",
+                "radiant"
+            ],
+            "wordLength": 4.148771021992238,
+            "syllableDensity": 1.3648124191461837,
+            "id": "beat_38"
+        },
+        {
+            "index": 39,
+            "sentiment": -0.9947,
+            "preview": "...rvants at all. Next day Gatsby called me on the phone. \u201cGoing away?\u201d I inquired. \u201cNo, old sport.\u201d \u201cI hear you fired all your servants.\u201d \u201cI wanted somebody who wouldn\u2019t gossip. Daisy comes over quite often\u2014in the afternoo...",
+            "weightedWords": [
+                "fired",
+                "dumb",
+                "failed",
+                "sick",
+                "rudely"
+            ],
+            "wordLength": 4.251302083333333,
+            "syllableDensity": 1.4231770833333333,
+            "id": "beat_39"
+        },
+        {
+            "index": 40,
+            "sentiment": 0.9936,
+            "preview": "...room again she got up and went over to Gatsby and pulled his face down, kissing him on the mouth. \u201cYou know I love you,\u201d she murmured. \u201cYou forget there\u2019s a lady present,\u201d said Jordan. Daisy looked around doubtfully. \u201cYo...",
+            "weightedWords": [
+                "love",
+                "won",
+                "kissing",
+                "loves",
+                "laugh"
+            ],
+            "wordLength": 4.1261378413524055,
+            "syllableDensity": 1.3693107932379713,
+            "id": "beat_40"
+        },
+        {
+            "index": 41,
+            "sentiment": -0.5289,
+            "preview": "...out a quarter of a mile down the road.\u201d \u201cOh.\u201d A pause. \u201cI don\u2019t see the idea of going to town,\u201d broke out Tom savagely. \u201cWomen get these notions in their heads\u2014\u201d \u201cShall we take",
+            "weightedWords": [
+                "savagely",
+                "beating",
+                "broke",
+                "temper",
+                "cried"
+            ],
+            "wordLength": 3.9760705289672544,
+            "syllableDensity": 1.3073047858942066,
+            "id": "beat_41"
+        },
+        {
+            "index": 42,
+            "sentiment": -0.925,
+            "preview": "...ast.\u201d \u201cAnd you found he was an Oxford man,\u201d said Jordan helpfully. \u201cAn Oxford man!\u201d He was incredulous. \u201cLike hell he is! He wears a pink suit.\u201d \u201cNevertheless he\u2019s an Oxford man.\u201d \u201cOxford, New Mexico,\u201d snorted Tom contem...",
+            "weightedWords": [
+                "hell",
+                "bad",
+                "contemptuously",
+                "dumb",
+                "sick"
+            ],
+            "wordLength": 4.060991105463787,
+            "syllableDensity": 1.386277001270648,
+            "id": "beat_42"
+        },
+        {
+            "index": 43,
+            "sentiment": -0.9935,
+            "preview": "...r.\u201d \u201cWhat do I owe you?\u201d \u201cDollar twenty.\u201d The relentless beating heat was beginning to confuse me and I had a bad moment there before I realized that so far his suspicions hadn\u2019t alighted on Tom. He had discovered that M...",
+            "weightedWords": [
+                "bad",
+                "terror",
+                "sick",
+                "panic",
+                "poor"
+            ],
+            "wordLength": 4.111254851228978,
+            "syllableDensity": 1.391979301423027,
+            "id": "beat_43"
+        },
+        {
+            "index": 44,
+            "sentiment": 0.9708,
+            "preview": "...y examined the parted string, muttered \u201cHum!\u201d in an interested way, and tossed the book on a chair. \u201cThat\u2019s a great expression of yours, isn\u2019t it?\u201d said Tom sharply. \u201cWhat is?\u201d \u201cAll this \u2018old sport\u2019 business. Where\u2019d you...",
+            "weightedWords": [
+                "great",
+                "won",
+                "smiled",
+                "cheer",
+                "friend"
+            ],
+            "wordLength": 4.099363057324841,
+            "syllableDensity": 1.4012738853503184,
+            "id": "beat_44"
+        },
+        {
+            "index": 45,
+            "sentiment": -0.9836,
+            "preview": "...nt to the table. \u201cOpen the whisky, Tom,\u201d she ordered, \u201cand I\u2019ll make you a mint julep. Then you won\u2019t seem so stupid to yourself \u2026 Look at the mint!\u201d \u201cWait a minute,\u201d snapped Tom, \u201cI want to ask Mr. Gatsby one more quest...",
+            "weightedWords": [
+                "stupid",
+                "angry",
+                "poor",
+                "terrible",
+                "tired"
+            ],
+            "wordLength": 3.9634300126103406,
+            "syllableDensity": 1.3543505674653216,
+            "id": "beat_45"
+        },
+        {
+            "index": 46,
+            "sentiment": 0.5659,
+            "preview": "...she gets foolish ideas in her head and doesn\u2019t know what she\u2019s doing.\u201d He nodded sagely. \u201cAnd what\u2019s more, I love Daisy too. Once in a while I go off on a spree and make a fool of myself, but I always come back, and in...",
+            "weightedWords": [
+                "love",
+                "loved",
+                "won",
+                "hand",
+                "care"
+            ],
+            "wordLength": 3.8605230386052303,
+            "syllableDensity": 1.3001245330012454,
+            "id": "beat_46"
+        },
+        {
+            "index": 47,
+            "sentiment": -0.9893,
+            "preview": "...is expression. He looked\u2014and this is said in all contempt for the babbled slander of his garden\u2014as if he had \u201ckilled a man.\u201d For a moment the set of his face could be described in just that fantastic way. It passed, and...",
+            "weightedWords": [
+                "killed",
+                "dead",
+                "terrified",
+                "death",
+                "violent"
+            ],
+            "wordLength": 4.313548387096774,
+            "syllableDensity": 1.4335483870967742,
+            "id": "beat_47"
+        },
+        {
+            "index": 48,
+            "sentiment": -0.9856,
+            "preview": "...n his shoulder. \u201cWhat you want, fella?\u201d \u201cWhat happened?\u2014that\u2019s what I want to know.\u201d \u201cAuto hit her. Ins\u2019antly killed.\u201d \u201cInstantly killed,\u201d repeated Tom, staring. \u201cShe ran out ina road. Son-of-a-bitch didn\u2019t even stopus c...",
+            "weightedWords": [
+                "killed",
+                "death",
+                "violent",
+                "violently",
+                "bitch"
+            ],
+            "wordLength": 4.164961636828645,
+            "syllableDensity": 1.3657289002557544,
+            "id": "beat_48"
+        },
+        {
+            "index": 49,
+            "sentiment": -0.4406,
+            "preview": "...wait outside.\u201d Jordan put her hand on my arm. \u201cWon\u2019t you come in, Nick?\u201d \u201cNo, thanks.\u201d I was feeling a little sick and I wanted to be alone. But Jordan lingered for a moment more. \u201cIt\u2019s only half-past nine,\u201d she said. I\u2019...",
+            "weightedWords": [
+                "sick",
+                "accident",
+                "coward",
+                "cries",
+                "suspiciously"
+            ],
+            "wordLength": 3.9083969465648853,
+            "syllableDensity": 1.3002544529262086,
+            "id": "beat_49"
+        },
+        {
+            "index": 50,
+            "sentiment": -0.9788,
+            "preview": "...dark shrubbery. \u201cDid you see any trouble on the road?\u201d he asked after a minute. \u201cYes.\u201d He hesitated. \u201cWas she killed?\u201d \u201cYes.\u201d \u201cI thought so; I told Daisy I thought so. It\u2019s better that the shock should all come at once....",
+            "weightedWords": [
+                "killed",
+                "devil",
+                "brutality",
+                "sinister",
+                "rob"
+            ],
+            "wordLength": 3.8496143958868894,
+            "syllableDensity": 1.2917737789203085,
+            "id": "beat_50"
+        },
+        {
+            "index": 51,
+            "sentiment": 0.9965,
+            "preview": "...nd echoes of still vibrant emotions. But he knew that he was in Daisy\u2019s house by a colossal accident. However glorious might be his future as Jay Gatsby, he was at present a penniless young man without a past, and at any...",
+            "weightedWords": [
+                "glorious",
+                "great",
+                "beautiful",
+                "loved",
+                "vibrant"
+            ],
+            "wordLength": 4.233247422680412,
+            "syllableDensity": 1.3994845360824741,
+            "id": "beat_51"
+        },
+        {
+            "index": 52,
+            "sentiment": 0.9976,
+            "preview": "...I loved her, old sport. I even hoped for a while that she\u2019d throw me over, but she didn\u2019t, because she was in love with me too. She thought I knew a lot because I knew different things from her \u2026 Well, there I was, way o...",
+            "weightedWords": [
+                "love",
+                "great",
+                "loved",
+                "lovely",
+                "charming"
+            ],
+            "wordLength": 4.2206266318537855,
+            "syllableDensity": 1.3798955613577024,
+            "id": "beat_52"
+        },
+        {
+            "index": 53,
+            "sentiment": 0.9877,
+            "preview": "...ng for a decision. She wanted her life shaped now, immediately\u2014and the decision must be made by some force\u2014of love, of money, of unquestionable practicality\u2014that was close at hand. That force took shape in the middle of...",
+            "weightedWords": [
+                "love",
+                "best",
+                "loved",
+                "lovely",
+                "beauty"
+            ],
+            "wordLength": 4.10230179028133,
+            "syllableDensity": 1.343989769820972,
+            "id": "beat_53"
+        },
+        {
+            "index": 54,
+            "sentiment": 0.5973,
+            "preview": "...into that radiant and understanding smile, as if we\u2019d been in ecstatic cahoots on that fact all the time. His gorgeous pink rag of a suit made a bright spot of colour against the white steps, and I thought of the night w...",
+            "weightedWords": [
+                "gorgeous",
+                "kind",
+                "ecstatic",
+                "enjoyed",
+                "care"
+            ],
+            "wordLength": 4.125802310654685,
+            "syllableDensity": 1.3671373555840822,
+            "id": "beat_54"
+        },
+        {
+            "index": 55,
+            "sentiment": -0.4634,
+            "preview": "...he began saying \u201cOh, my God!\u201d again in a whisper\u2014his comforter left several explanations in the air. \u201cThen he killed her,\u201d said Wilson. His mouth dropped open suddenly. \u201cWho did?\u201d \u201cI have a way of finding out.\u201d \u201cYou\u2019re m...",
+            "weightedWords": [
+                "killed",
+                "murdered",
+                "harm",
+                "lying",
+                "cry"
+            ],
+            "wordLength": 4.052429667519181,
+            "syllableDensity": 1.3171355498721227,
+            "id": "beat_55"
+        },
+        {
+            "index": 56,
+            "sentiment": 0.8574,
+            "preview": "...side to snap off the light. Wilson\u2019s glazed eyes turned out to the ash-heaps, where small grey clouds took on fantastic shapes and scurried here and there in the faint dawn wind. \u201cI spoke to her,\u201d he muttered, after a lo...",
+            "weightedWords": [
+                "fantastic",
+                "friend",
+                "strength",
+                "hand",
+                "glad"
+            ],
+            "wordLength": 4.121951219512195,
+            "syllableDensity": 1.3209242618741976,
+            "id": "beat_56"
+        },
+        {
+            "index": 57,
+            "sentiment": -0.2958,
+            "preview": "...remote and unessential. I found myself on Gatsby\u2019s side, and alone. From the moment I telephoned news of the catastrophe to West Egg village, every surmise about him, and every practical question, was referred to me. At...",
+            "weightedWords": [
+                "catastrophe",
+                "grief",
+                "burden",
+                "worry",
+                "disturb"
+            ],
+            "wordLength": 4.266325224071703,
+            "syllableDensity": 1.4238156209987196,
+            "id": "beat_57"
+        },
+        {
+            "index": 58,
+            "sentiment": -0.9898,
+            "preview": "...hrough as a man\u2019s voice, very thin and far away. \u201cThis is Slagle speaking \u2026\u201d \u201cYes?\u201d The name was unfamiliar. \u201cHell of a note, isn\u2019t it? Get my wire?\u201d \u201cThere haven\u2019t been any wires.\u201d \u201cYoung Parke\u2019s in trouble,\u201d he said ra...",
+            "weightedWords": [
+                "hell",
+                "dead",
+                "violence",
+                "death",
+                "mad"
+            ],
+            "wordLength": 4.045395590142672,
+            "syllableDensity": 1.3450064850843062,
+            "id": "beat_58"
+        },
+        {
+            "index": 59,
+            "sentiment": 0.9109,
+            "preview": "...ther expect me to be with them tomorrow. In fact, there\u2019s a sort of picnic or something. Of course I\u2019ll do my best to get away.\u201d I ejaculated an unrestrained \u201cHuh!\u201d and he must have heard me, for he went on nervously: \u201cW...",
+            "weightedWords": [
+                "best",
+                "great",
+                "lovely",
+                "friend",
+                "care"
+            ],
+            "wordLength": 3.8158890290037832,
+            "syllableDensity": 1.3240857503152585,
+            "id": "beat_59"
+        },
+        {
+            "index": 60,
+            "sentiment": 0.9868,
+            "preview": "...ut I see now there was a reason for it. He knew he had a big future in front of him. And ever since he made a success he was very generous with me.\u201d He seemed reluctant to put away the picture, held it for another minute...",
+            "weightedWords": [
+                "success",
+                "admiration",
+                "excitedly",
+                "generous",
+                "friend"
+            ],
+            "wordLength": 3.689521345407503,
+            "syllableDensity": 1.2807244501940491,
+            "id": "beat_60"
+        },
+        {
+            "index": 61,
+            "sentiment": 0.5794,
+            "preview": "...had some resolves like this or something. Do you notice what he\u2019s got about improving his mind? He was always great for that. He told me I et like a hog once, and I beat him for it.\u201d He was reluctant to close the book, r...",
+            "weightedWords": [
+                "great",
+                "blessed",
+                "cheerful",
+                "brave",
+                "save"
+            ],
+            "wordLength": 4.047314578005115,
+            "syllableDensity": 1.3554987212276215,
+            "id": "beat_61"
+        },
+        {
+            "index": 62,
+            "sentiment": -0.9422,
+            "preview": "...e men turn in at a house\u2014the wrong house. But no one knows the woman\u2019s name, and no one cares. After Gatsby\u2019s death the East was haunted for me like that, distorted beyond my eyes\u2019 power of correction. So when the blue s...",
+            "weightedWords": [
+                "death",
+                "bad",
+                "angry",
+                "wrong",
+                "haunted"
+            ],
+            "wordLength": 4.177314211212516,
+            "syllableDensity": 1.3963494132985659,
+            "id": "beat_62"
+        },
+        {
+            "index": 63,
+            "sentiment": 0.9037,
+            "preview": "...vanished trees, the trees that had made way for Gatsby\u2019s house, had once pandered in whispers to the last and greatest of all human dreams; for a transitory enchanted moment man must have held his breath in the presence...",
+            "weightedWords": [
+                "greatest",
+                "hand",
+                "laughter",
+                "true",
+                "yes"
+            ],
+            "wordLength": 3.932379713914174,
+            "syllableDensity": 1.2990897269180754,
+            "id": "beat_63"
+        },
+        {
+            "index": 64,
+            "sentiment": -0.2854,
+            "preview": "...dock. He had come a long way to this blue lawn, and his dream must have seemed so close that he could hardly fail to grasp it. He did not know that it was already behind him, somewhere back in that vast obscurity beyond...",
+            "weightedWords": [
+                "fail",
+                "no"
+            ],
+            "wordLength": 4.1688311688311686,
+            "syllableDensity": 1.3571428571428572,
+            "id": "beat_64"
+        }
+    ],
+    "edges": [
+        {
+            "source": "beat_0",
+            "target": "beat_1"
+        },
+        {
+            "source": "beat_1",
+            "target": "beat_2"
+        },
+        {
+            "source": "beat_2",
+            "target": "beat_3"
+        },
+        {
+            "source": "beat_3",
+            "target": "beat_4"
+        },
+        {
+            "source": "beat_4",
+            "target": "beat_5"
+        },
+        {
+            "source": "beat_5",
+            "target": "beat_6"
+        },
+        {
+            "source": "beat_6",
+            "target": "beat_7"
+        },
+        {
+            "source": "beat_7",
+            "target": "beat_8"
+        },
+        {
+            "source": "beat_8",
+            "target": "beat_9"
+        },
+        {
+            "source": "beat_9",
+            "target": "beat_10"
+        },
+        {
+            "source": "beat_10",
+            "target": "beat_11"
+        },
+        {
+            "source": "beat_11",
+            "target": "beat_12"
+        },
+        {
+            "source": "beat_12",
+            "target": "beat_13"
+        },
+        {
+            "source": "beat_13",
+            "target": "beat_14"
+        },
+        {
+            "source": "beat_14",
+            "target": "beat_15"
+        },
+        {
+            "source": "beat_15",
+            "target": "beat_16"
+        },
+        {
+            "source": "beat_16",
+            "target": "beat_17"
+        },
+        {
+            "source": "beat_17",
+            "target": "beat_18"
+        },
+        {
+            "source": "beat_18",
+            "target": "beat_19"
+        },
+        {
+            "source": "beat_19",
+            "target": "beat_20"
+        },
+        {
+            "source": "beat_20",
+            "target": "beat_21"
+        },
+        {
+            "source": "beat_21",
+            "target": "beat_22"
+        },
+        {
+            "source": "beat_22",
+            "target": "beat_23"
+        },
+        {
+            "source": "beat_23",
+            "target": "beat_24"
+        },
+        {
+            "source": "beat_24",
+            "target": "beat_25"
+        },
+        {
+            "source": "beat_25",
+            "target": "beat_26"
+        },
+        {
+            "source": "beat_26",
+            "target": "beat_27"
+        },
+        {
+            "source": "beat_27",
+            "target": "beat_28"
+        },
+        {
+            "source": "beat_28",
+            "target": "beat_29"
+        },
+        {
+            "source": "beat_29",
+            "target": "beat_30"
+        },
+        {
+            "source": "beat_30",
+            "target": "beat_31"
+        },
+        {
+            "source": "beat_31",
+            "target": "beat_32"
+        },
+        {
+            "source": "beat_32",
+            "target": "beat_33"
+        },
+        {
+            "source": "beat_33",
+            "target": "beat_34"
+        },
+        {
+            "source": "beat_34",
+            "target": "beat_35"
+        },
+        {
+            "source": "beat_35",
+            "target": "beat_36"
+        },
+        {
+            "source": "beat_36",
+            "target": "beat_37"
+        },
+        {
+            "source": "beat_37",
+            "target": "beat_38"
+        },
+        {
+            "source": "beat_38",
+            "target": "beat_39"
+        },
+        {
+            "source": "beat_39",
+            "target": "beat_40"
+        },
+        {
+            "source": "beat_40",
+            "target": "beat_41"
+        },
+        {
+            "source": "beat_41",
+            "target": "beat_42"
+        },
+        {
+            "source": "beat_42",
+            "target": "beat_43"
+        },
+        {
+            "source": "beat_43",
+            "target": "beat_44"
+        },
+        {
+            "source": "beat_44",
+            "target": "beat_45"
+        },
+        {
+            "source": "beat_45",
+            "target": "beat_46"
+        },
+        {
+            "source": "beat_46",
+            "target": "beat_47"
+        },
+        {
+            "source": "beat_47",
+            "target": "beat_48"
+        },
+        {
+            "source": "beat_48",
+            "target": "beat_49"
+        },
+        {
+            "source": "beat_49",
+            "target": "beat_50"
+        },
+        {
+            "source": "beat_50",
+            "target": "beat_51"
+        },
+        {
+            "source": "beat_51",
+            "target": "beat_52"
+        },
+        {
+            "source": "beat_52",
+            "target": "beat_53"
+        },
+        {
+            "source": "beat_53",
+            "target": "beat_54"
+        },
+        {
+            "source": "beat_54",
+            "target": "beat_55"
+        },
+        {
+            "source": "beat_55",
+            "target": "beat_56"
+        },
+        {
+            "source": "beat_56",
+            "target": "beat_57"
+        },
+        {
+            "source": "beat_57",
+            "target": "beat_58"
+        },
+        {
+            "source": "beat_58",
+            "target": "beat_59"
+        },
+        {
+            "source": "beat_59",
+            "target": "beat_60"
+        },
+        {
+            "source": "beat_60",
+            "target": "beat_61"
+        },
+        {
+            "source": "beat_61",
+            "target": "beat_62"
+        },
+        {
+            "source": "beat_62",
+            "target": "beat_63"
+        },
+        {
+            "source": "beat_63",
+            "target": "beat_64"
+        }
+    ]
+}
